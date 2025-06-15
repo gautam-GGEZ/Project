@@ -1,0 +1,14 @@
+{
+  "DataLoadSuccess": "✅ Data successfully loaded and cleaned.",
+  "DataLoadError": "❌ Failed to load data. Please check the file format.",
+  "PreprocessingStarted": "🧹 Cleaning data...",
+  "ForecastGenerationStarted": "📊 Forecasting started...",
+  "ForecastGenerationSuccess": "✅ Forecast complete!",
+  "ForecastGenerationFailure": "❌ Forecast failed. Please try again.",
+  "InputValidationError": "⚠️ Please upload a valid file first.",
+  "InvalidEmailFormat": "⚠️ Please enter a valid email address.",
+  "EmailSent": "✅ Email sent successfully.",
+  "EmailFailed": "❌ Failed to send email. Check your internet connection.",
+  "ModelTrainingComplete": "🧠 Model training completed and CI/CD pipeline executed.",
+  "UnknownError": "⚠️ An unknown error occurred. Please try again later."
+}

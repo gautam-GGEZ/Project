@@ -1,0 +1,20 @@
+🔍 AI Forecast Insight Summary
+📉 Decreasing trend expected.
+• The forecast consists of 12 time points.
+• Average change across the forecast: -83.92.
+• Maximum increase in value: 2388.55.
+• Maximum drop in value: -4000.81.
+• Peak predicted value: 5881.28.
+• Lowest predicted value: 1452.64.
+
+📉 On 2018-01-14 00:00:00, predicted sales drop to 1880.47 (▼4000.81).
+📈 On 2018-01-21 00:00:00, predicted sales increase to 2377.10 (▲496.63).
+📉 On 2018-01-28 00:00:00, predicted sales drop to 1452.64 (▼924.46).
+📈 On 2018-02-04 00:00:00, predicted sales increase to 3148.13 (▲1695.49).
+📈 On 2018-02-11 00:00:00, predicted sales increase to 5279.72 (▲2131.59).
+📉 On 2018-02-18 00:00:00, predicted sales drop to 2779.09 (▼2500.62).
+📈 On 2018-02-25 00:00:00, predicted sales increase to 3098.14 (▲319.05).
+📈 On 2018-03-04 00:00:00, predicted sales increase to 5319.26 (▲2221.12).
+📉 On 2018-03-11 00:00:00, predicted sales drop to 4446.21 (▼873.05).
+📉 On 2018-03-18 00:00:00, predicted sales drop to 2569.58 (▼1876.63).
+📈 On 2018-03-25 00:00:00, predicted sales increase to 4958.13 (▲2388.55).

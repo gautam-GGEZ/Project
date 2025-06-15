@@ -1,0 +1,1985 @@
+2025-05-22 00:20:06,937 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-22 00:20:06,938 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/5UfGSN2amN
+2025-05-22 00:20:06,938 - INFO - Flet app has started...
+2025-05-22 00:20:06,939 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/5UfGSN2amN
+2025-05-22 00:20:06,939 - INFO - Starting Flet View app...
+2025-05-22 00:20:06,940 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-22 00:20:07,388 - INFO - App session started
+2025-05-22 00:20:07,449 - INFO - Smart insights updated successfully.
+2025-05-22 00:20:07,471 - INFO - Forecasting started...
+2025-05-22 00:20:07,471 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-22 00:20:07,509 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-22 00:20:07,509 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-22 00:20:15,942 - INFO - Forecasting started...
+2025-05-22 00:20:15,943 - INFO - Selected model: Compare Both, Forecast horizon: 35 periods
+2025-05-22 00:20:15,972 - INFO - MAE (XGBoost): 1583.48, RMSE: 1947.49
+2025-05-22 00:20:15,972 - INFO - MAE (ARIMA): 2174.64, RMSE: 2479.44
+2025-05-29 12:34:54,653 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-29 12:34:54,654 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/PfzcoSpWqI
+2025-05-29 12:34:54,654 - INFO - Flet app has started...
+2025-05-29 12:34:54,655 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/PfzcoSpWqI
+2025-05-29 12:34:54,655 - INFO - Starting Flet View app...
+2025-05-29 12:34:54,655 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-29 12:34:55,112 - INFO - App session started
+2025-05-29 12:34:55,157 - INFO - Smart insights updated successfully.
+2025-05-29 12:34:55,211 - INFO - Forecasting started...
+2025-05-29 12:34:55,211 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 12:34:55,212 - WARNING - Auto hyperparameter tuning failed: tune_hyperparameters() got an unexpected keyword argument 'date_column'
+2025-05-29 12:34:55,245 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 12:34:55,245 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 12:35:09,561 - INFO - Forecasting started...
+2025-05-29 12:35:09,562 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 12:35:09,565 - WARNING - Auto hyperparameter tuning failed: tune_hyperparameters() got an unexpected keyword argument 'date_column'
+2025-05-29 12:35:09,602 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 12:35:09,602 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 12:37:40,366 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-29 12:37:40,367 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/mLrgWyH3AD
+2025-05-29 12:37:40,367 - INFO - Flet app has started...
+2025-05-29 12:37:40,368 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/mLrgWyH3AD
+2025-05-29 12:37:40,368 - INFO - Starting Flet View app...
+2025-05-29 12:37:40,368 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-29 12:37:40,596 - INFO - App session started
+2025-05-29 12:37:40,638 - INFO - Smart insights updated successfully.
+2025-05-29 12:37:40,651 - INFO - Forecasting started...
+2025-05-29 12:37:40,651 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 12:37:40,652 - WARNING - Auto hyperparameter tuning failed: tune_hyperparameters() got an unexpected keyword argument 'date_column'
+2025-05-29 12:37:40,682 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 12:37:40,682 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 12:38:28,270 - INFO - Forecasting started...
+2025-05-29 12:38:28,270 - INFO - Selected model: ARIMA, Forecast horizon: 12 periods
+2025-05-29 12:38:28,275 - WARNING - Auto hyperparameter tuning failed: tune_hyperparameters() got an unexpected keyword argument 'date_column'
+2025-05-29 12:38:28,319 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 12:38:28,319 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 12:38:37,642 - INFO - Forecasting started...
+2025-05-29 12:38:37,642 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 12:38:37,645 - WARNING - Auto hyperparameter tuning failed: tune_hyperparameters() got an unexpected keyword argument 'date_column'
+2025-05-29 12:38:37,685 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 12:38:37,685 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 12:41:17,417 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-29 12:41:17,418 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/wtpHgNPRfU
+2025-05-29 12:41:17,418 - INFO - Flet app has started...
+2025-05-29 12:41:17,419 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/wtpHgNPRfU
+2025-05-29 12:41:17,419 - INFO - Starting Flet View app...
+2025-05-29 12:41:17,419 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-29 12:41:17,649 - INFO - App session started
+2025-05-29 12:41:17,685 - INFO - Smart insights updated successfully.
+2025-05-29 12:41:17,699 - INFO - Forecasting started...
+2025-05-29 12:41:17,699 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 12:41:17,700 - WARNING - Auto hyperparameter tuning failed: tune_hyperparameters() got an unexpected keyword argument 'date_column'
+2025-05-29 12:41:17,729 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 12:41:17,729 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 12:41:17,901 - INFO - Publishing dashboard data...
+2025-05-29 12:41:17,901 - ERROR - Exception during forecasting: Object of type Timestamp is not JSON serializable
+2025-05-29 13:15:12,293 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-29 13:15:12,294 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/zdUY0UdXYT
+2025-05-29 13:15:12,294 - INFO - Flet app has started...
+2025-05-29 13:15:12,295 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/zdUY0UdXYT
+2025-05-29 13:15:12,295 - INFO - Starting Flet View app...
+2025-05-29 13:15:12,295 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-29 13:15:12,573 - INFO - App session started
+2025-05-29 13:15:12,629 - INFO - Smart insights updated successfully.
+2025-05-29 13:15:12,643 - INFO - Forecasting started...
+2025-05-29 13:15:12,644 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 13:15:12,644 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-29 13:15:12,681 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 13:15:12,681 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 13:15:12,844 - INFO - 📢 Publishing forecast data to dashboard (simulated)...
+2025-05-29 13:15:12,845 - INFO - ✅ Forecast data published to 'published_forecast.csv'
+2025-05-29 13:15:12,845 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-29 13:15:12,845 - INFO - ✅ Build triggered
+2025-05-29 13:15:12,845 - INFO - 📦 Dependencies resolved
+2025-05-29 13:15:12,845 - INFO - 🔄 Model retrained
+2025-05-29 13:15:12,845 - INFO - 🚀 Deployment staged
+2025-05-29 13:15:12,845 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-29 13:15:12,845 - INFO - 📥 Saving forecast output to forecast_output_auto.csv...
+2025-05-29 13:15:12,845 - INFO - ✅ Forecast output saved successfully.
+2025-05-29 13:15:12,845 - INFO - Simulating sending email to recipient@example.com with subject 'Forecast Complete'
+2025-05-29 13:15:12,845 - INFO - 🚀 Launching summary dashboard...
+2025-05-29 13:15:12,849 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-29 13:15:12,849 - INFO - Generating NLP summary for insights...
+2025-05-29 13:15:12,849 - INFO - Insights serialized and saved successfully.
+2025-05-29 13:15:12,849 - INFO - Mae Xgboost: 1927.3755274739585
+Rmse Xgboost: 2373.7886673024454
+Mae Arima: 1403.1724711767356
+Rmse Arima: 1590.0854468213536
+2025-05-29 13:19:42,328 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-29 13:19:42,329 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/HoALy8s0X8
+2025-05-29 13:19:42,329 - INFO - Flet app has started...
+2025-05-29 13:19:42,329 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/HoALy8s0X8
+2025-05-29 13:19:42,330 - INFO - Starting Flet View app...
+2025-05-29 13:19:42,330 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-29 13:19:42,604 - INFO - App session started
+2025-05-29 13:19:42,650 - INFO - Smart insights updated successfully.
+2025-05-29 13:19:42,665 - INFO - Forecasting started...
+2025-05-29 13:19:42,665 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 13:19:42,665 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-29 13:19:42,703 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 13:19:42,703 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 13:19:42,951 - INFO - 📢 Publishing forecast data to dashboard (simulated)...
+2025-05-29 13:19:42,952 - INFO - ✅ Forecast data published to 'published_forecast.csv'
+2025-05-29 13:19:42,952 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-29 13:19:42,952 - INFO - ✅ Build triggered
+2025-05-29 13:19:42,952 - INFO - 📦 Dependencies resolved
+2025-05-29 13:19:42,952 - INFO - 🔄 Model retrained
+2025-05-29 13:19:42,952 - INFO - 🚀 Deployment staged
+2025-05-29 13:19:42,952 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-29 13:19:42,952 - INFO - 📥 Saving forecast output to forecast_output_auto.csv...
+2025-05-29 13:19:42,953 - INFO - ✅ Forecast output saved successfully.
+2025-05-29 13:19:42,953 - INFO - Simulating sending email to recipient@example.com with subject 'Forecast Complete'
+2025-05-29 13:19:42,953 - INFO - 🚀 Launching summary dashboard...
+2025-05-29 13:19:42,958 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-29 13:19:42,958 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-29 13:24:38,124 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-29 13:24:38,126 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/ebbVoKhOw1
+2025-05-29 13:24:38,126 - INFO - Flet app has started...
+2025-05-29 13:24:38,126 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/ebbVoKhOw1
+2025-05-29 13:24:38,126 - INFO - Starting Flet View app...
+2025-05-29 13:24:38,127 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-29 13:24:38,420 - INFO - App session started
+2025-05-29 13:24:38,466 - INFO - Smart insights updated successfully.
+2025-05-29 13:24:38,482 - INFO - Forecasting started...
+2025-05-29 13:24:38,482 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 13:24:38,483 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-29 13:24:38,514 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 13:24:38,514 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 13:24:38,682 - INFO - 📢 Publishing forecast data to dashboard (simulated)...
+2025-05-29 13:24:38,683 - INFO - ✅ Forecast data published to 'published_forecast.csv'
+2025-05-29 13:24:38,683 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-29 13:24:38,683 - INFO - ✅ Build triggered
+2025-05-29 13:24:38,683 - INFO - 📦 Dependencies resolved
+2025-05-29 13:24:38,683 - INFO - 🔄 Model retrained
+2025-05-29 13:24:38,683 - INFO - 🚀 Deployment staged
+2025-05-29 13:24:38,683 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-29 13:24:38,683 - INFO - 📥 Saving forecast output to forecast_output_auto.csv...
+2025-05-29 13:24:38,684 - INFO - ✅ Forecast output saved successfully.
+2025-05-29 13:24:38,684 - INFO - Simulating sending email to recipient@example.com with subject 'Forecast Complete'
+2025-05-29 13:24:38,684 - INFO - 🚀 Launching summary dashboard...
+2025-05-29 13:24:38,687 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-29 13:24:38,687 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-29 13:29:56,341 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-29 13:29:56,342 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/2kuIm2C79h
+2025-05-29 13:29:56,342 - INFO - Flet app has started...
+2025-05-29 13:29:56,343 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/2kuIm2C79h
+2025-05-29 13:29:56,343 - INFO - Starting Flet View app...
+2025-05-29 13:29:56,343 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-29 13:29:56,557 - INFO - App session started
+2025-05-29 13:29:56,595 - INFO - Smart insights updated successfully.
+2025-05-29 13:29:56,610 - INFO - Forecasting started...
+2025-05-29 13:29:56,610 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 13:29:56,610 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-29 13:29:56,647 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 13:29:56,647 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 13:29:56,824 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-29 13:29:56,824 - INFO - ✅ Build triggered
+2025-05-29 13:29:56,824 - INFO - 📦 Dependencies resolved
+2025-05-29 13:29:56,824 - INFO - 🔄 Model retrained
+2025-05-29 13:29:56,824 - INFO - 🚀 Deployment staged
+2025-05-29 13:29:56,824 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-29 13:29:56,824 - INFO - 📥 Saving forecast output to forecast_output_auto.csv...
+2025-05-29 13:29:56,825 - INFO - ✅ Forecast output saved successfully.
+2025-05-29 13:29:56,825 - INFO - Simulating sending email to recipient@example.com with subject 'Forecast Complete'
+2025-05-29 13:29:56,825 - INFO - 🚀 Launching summary dashboard...
+2025-05-29 13:29:56,829 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-29 13:29:56,829 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-29 13:30:15,641 - INFO - Simulating sending email to gaudeep0901@gmail.com with subject 'Forecast Results'
+2025-05-29 13:30:23,157 - INFO - Simulating sending email to gaudeep0901@gmail.com with subject 'Final Forecast Report'
+2025-05-29 14:01:52,043 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-29 14:01:52,046 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/huf8MjTlgh
+2025-05-29 14:01:52,046 - INFO - Flet app has started...
+2025-05-29 14:01:52,047 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/huf8MjTlgh
+2025-05-29 14:01:52,047 - INFO - Starting Flet View app...
+2025-05-29 14:01:52,047 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-29 14:01:52,330 - INFO - App session started
+2025-05-29 14:01:52,366 - INFO - Smart insights updated successfully.
+2025-05-29 14:01:52,380 - INFO - Forecasting started...
+2025-05-29 14:01:52,380 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-29 14:01:52,380 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-29 14:01:52,406 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-29 14:01:52,406 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-29 14:01:52,581 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-29 14:01:52,581 - INFO - ✅ Build triggered
+2025-05-29 14:01:52,581 - INFO - 📦 Dependencies resolved
+2025-05-29 14:01:52,581 - INFO - 🔄 Model retrained
+2025-05-29 14:01:52,581 - INFO - 🚀 Deployment staged
+2025-05-29 14:01:52,581 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-29 14:01:52,581 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete'
+2025-05-29 14:01:55,697 - INFO - ❌ Email sending failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-ada5d84f9e0sm130567266b.85 - gsmtp')
+2025-05-29 14:01:55,698 - INFO - 🚀 Launching summary dashboard...
+2025-05-29 14:01:55,716 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-29 14:01:55,717 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-29 14:02:05,798 - INFO - Attempting to send email to gaudeep0901@gmail.com with subject 'Forecast Results'
+2025-05-29 14:02:07,471 - INFO - ❌ Email sending failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-ada6ad3d7ebsm129833066b.159 - gsmtp')
+2025-05-29 14:02:11,112 - INFO - Attempting to send email to gaudeep0901@gmail.com with subject 'Final Forecast Report'
+2025-05-29 14:02:12,749 - INFO - ❌ Email sending failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-ada5d82d696sm130758866b.42 - gsmtp')
+2025-05-30 13:48:17,507 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 13:48:17,509 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/sLLhPLTISr
+2025-05-30 13:48:17,509 - INFO - Flet app has started...
+2025-05-30 13:48:17,509 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/sLLhPLTISr
+2025-05-30 13:48:17,509 - INFO - Starting Flet View app...
+2025-05-30 13:48:17,510 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 13:48:17,980 - INFO - App session started
+2025-05-30 13:48:18,026 - INFO - Smart insights updated successfully.
+2025-05-30 13:48:18,045 - INFO - Forecasting started...
+2025-05-30 13:48:18,045 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 13:48:18,046 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 13:48:18,077 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 13:48:18,077 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 13:48:18,258 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 13:48:18,258 - INFO - ✅ Build triggered
+2025-05-30 13:48:18,259 - INFO - 📦 Dependencies resolved
+2025-05-30 13:48:18,259 - INFO - 🔄 Model retrained
+2025-05-30 13:48:18,259 - INFO - 🚀 Deployment staged
+2025-05-30 13:48:18,259 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 13:48:18,259 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete'
+2025-05-30 13:48:19,302 - INFO - ✅ Email sent successfully.
+2025-05-30 13:48:19,302 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 13:48:19,323 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 13:48:19,323 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 13:48:29,123 - INFO - Attempting to send email to gaudeep0901@gmail.com with subject 'Forecast Results'
+2025-05-30 13:48:30,093 - INFO - ✅ Email sent successfully.
+2025-05-30 13:48:30,488 - INFO - Attempting to send email to gaudeep0901@gmail.com with subject 'Final Forecast Report'
+2025-05-30 13:48:31,418 - INFO - ✅ Email sent successfully.
+2025-05-30 13:50:54,038 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 13:50:54,040 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/V2yCRQ8DSw
+2025-05-30 13:50:54,040 - INFO - Flet app has started...
+2025-05-30 13:50:54,041 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/V2yCRQ8DSw
+2025-05-30 13:50:54,041 - INFO - Starting Flet View app...
+2025-05-30 13:50:54,041 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 13:50:54,338 - INFO - App session started
+2025-05-30 13:50:54,379 - INFO - Smart insights updated successfully.
+2025-05-30 13:50:54,400 - INFO - Forecasting started...
+2025-05-30 13:50:54,400 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 13:50:54,401 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 13:50:54,444 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 13:50:54,444 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 13:50:54,662 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 13:50:54,662 - INFO - ✅ Build triggered
+2025-05-30 13:50:54,662 - INFO - 📦 Dependencies resolved
+2025-05-30 13:50:54,662 - INFO - 🔄 Model retrained
+2025-05-30 13:50:54,662 - INFO - 🚀 Deployment staged
+2025-05-30 13:50:54,662 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 13:50:54,662 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete'
+2025-05-30 13:50:55,693 - INFO - ✅ Email sent successfully.
+2025-05-30 13:50:55,693 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 13:50:55,716 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 13:50:55,716 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:04:28,123 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:04:28,125 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/oRACUdaxFi
+2025-05-30 14:04:28,125 - INFO - Flet app has started...
+2025-05-30 14:04:28,126 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/oRACUdaxFi
+2025-05-30 14:04:28,126 - INFO - Starting Flet View app...
+2025-05-30 14:04:28,126 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:04:28,386 - INFO - App session started
+2025-05-30 14:04:28,427 - INFO - Smart insights updated successfully.
+2025-05-30 14:04:28,443 - INFO - Forecasting started...
+2025-05-30 14:04:28,443 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:04:28,443 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:04:28,479 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:04:28,479 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:04:28,659 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:04:28,659 - INFO - ✅ Build triggered
+2025-05-30 14:04:28,659 - INFO - 📦 Dependencies resolved
+2025-05-30 14:04:28,659 - INFO - 🔄 Model retrained
+2025-05-30 14:04:28,659 - INFO - 🚀 Deployment staged
+2025-05-30 14:04:28,659 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:04:28,659 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:04:30,149 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:04:30,150 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:04:30,164 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:04:30,164 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:06:53,823 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:06:53,824 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/EvNg4MzV9A
+2025-05-30 14:06:53,825 - INFO - Flet app has started...
+2025-05-30 14:06:53,825 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/EvNg4MzV9A
+2025-05-30 14:06:53,825 - INFO - Starting Flet View app...
+2025-05-30 14:06:53,825 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:06:54,037 - INFO - App session started
+2025-05-30 14:06:54,076 - INFO - Smart insights updated successfully.
+2025-05-30 14:06:54,101 - INFO - Forecasting started...
+2025-05-30 14:06:54,101 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:06:54,104 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:06:54,140 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:06:54,140 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:06:54,309 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:06:54,309 - INFO - ✅ Build triggered
+2025-05-30 14:06:54,309 - INFO - 📦 Dependencies resolved
+2025-05-30 14:06:54,309 - INFO - 🔄 Model retrained
+2025-05-30 14:06:54,309 - INFO - 🚀 Deployment staged
+2025-05-30 14:06:54,309 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:06:54,309 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:06:55,506 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:06:55,507 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:06:55,527 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:06:55,528 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:12:50,769 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:12:50,770 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/yE7TVBk8tz
+2025-05-30 14:12:50,770 - INFO - Flet app has started...
+2025-05-30 14:12:50,771 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/yE7TVBk8tz
+2025-05-30 14:12:50,771 - INFO - Starting Flet View app...
+2025-05-30 14:12:50,771 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:12:51,014 - INFO - App session started
+2025-05-30 14:12:51,046 - INFO - Smart insights updated successfully.
+2025-05-30 14:12:51,060 - INFO - Forecasting started...
+2025-05-30 14:12:51,060 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:12:51,060 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:12:51,086 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:12:51,087 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:12:51,267 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:12:51,267 - INFO - ✅ Build triggered
+2025-05-30 14:12:51,267 - INFO - 📦 Dependencies resolved
+2025-05-30 14:12:51,267 - INFO - 🔄 Model retrained
+2025-05-30 14:12:51,267 - INFO - 🚀 Deployment staged
+2025-05-30 14:12:51,267 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:12:51,267 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:12:52,535 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:12:52,535 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:12:52,554 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:12:52,554 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:22:50,284 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:22:50,285 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/qly6wWIlA9
+2025-05-30 14:22:50,286 - INFO - Flet app has started...
+2025-05-30 14:22:50,286 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/qly6wWIlA9
+2025-05-30 14:22:50,286 - INFO - Starting Flet View app...
+2025-05-30 14:22:50,286 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:22:50,548 - INFO - App session started
+2025-05-30 14:22:50,589 - INFO - Smart insights updated successfully.
+2025-05-30 14:22:50,605 - INFO - Forecasting started...
+2025-05-30 14:22:50,605 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:22:50,606 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:22:50,640 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:22:50,640 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:22:50,815 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:22:50,815 - INFO - ✅ Build triggered
+2025-05-30 14:22:50,815 - INFO - 📦 Dependencies resolved
+2025-05-30 14:22:50,815 - INFO - 🔄 Model retrained
+2025-05-30 14:22:50,815 - INFO - 🚀 Deployment staged
+2025-05-30 14:22:50,815 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:22:50,815 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:22:52,125 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:22:52,125 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:22:52,145 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:22:52,145 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:24:36,564 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:24:36,566 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/VwbDoeuXkN
+2025-05-30 14:24:36,566 - INFO - Flet app has started...
+2025-05-30 14:24:36,566 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/VwbDoeuXkN
+2025-05-30 14:24:36,566 - INFO - Starting Flet View app...
+2025-05-30 14:24:36,566 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:24:36,819 - INFO - App session started
+2025-05-30 14:24:36,851 - INFO - Smart insights updated successfully.
+2025-05-30 14:24:36,868 - INFO - Forecasting started...
+2025-05-30 14:24:36,868 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:24:36,868 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:24:36,895 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:24:36,895 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:24:37,076 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:24:37,076 - INFO - ✅ Build triggered
+2025-05-30 14:24:37,076 - INFO - 📦 Dependencies resolved
+2025-05-30 14:24:37,076 - INFO - 🔄 Model retrained
+2025-05-30 14:24:37,076 - INFO - 🚀 Deployment staged
+2025-05-30 14:24:37,076 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:24:37,076 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:24:38,600 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:24:38,601 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:24:38,625 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:24:38,625 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:25:12,308 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:25:12,309 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/Fxyb4zU38L
+2025-05-30 14:25:12,310 - INFO - Flet app has started...
+2025-05-30 14:25:12,310 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/Fxyb4zU38L
+2025-05-30 14:25:12,310 - INFO - Starting Flet View app...
+2025-05-30 14:25:12,310 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:25:12,570 - INFO - App session started
+2025-05-30 14:25:12,602 - INFO - Smart insights updated successfully.
+2025-05-30 14:25:12,616 - INFO - Forecasting started...
+2025-05-30 14:25:12,616 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:25:12,617 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:25:12,644 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:25:12,644 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:25:12,822 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:25:12,822 - INFO - ✅ Build triggered
+2025-05-30 14:25:12,822 - INFO - 📦 Dependencies resolved
+2025-05-30 14:25:12,822 - INFO - 🔄 Model retrained
+2025-05-30 14:25:12,822 - INFO - 🚀 Deployment staged
+2025-05-30 14:25:12,822 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:25:12,822 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:25:14,179 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:25:14,180 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:25:14,191 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:25:14,191 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:25:52,412 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:25:52,413 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/DBMwFrVcwc
+2025-05-30 14:25:52,413 - INFO - Flet app has started...
+2025-05-30 14:25:52,414 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/DBMwFrVcwc
+2025-05-30 14:25:52,414 - INFO - Starting Flet View app...
+2025-05-30 14:25:52,414 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:25:52,683 - INFO - App session started
+2025-05-30 14:25:52,721 - INFO - Smart insights updated successfully.
+2025-05-30 14:25:52,738 - INFO - Forecasting started...
+2025-05-30 14:25:52,738 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:25:52,738 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:25:52,764 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:25:52,764 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:25:52,951 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:25:52,951 - INFO - ✅ Build triggered
+2025-05-30 14:25:52,951 - INFO - 📦 Dependencies resolved
+2025-05-30 14:25:52,951 - INFO - 🔄 Model retrained
+2025-05-30 14:25:52,952 - INFO - 🚀 Deployment staged
+2025-05-30 14:25:52,952 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:25:52,952 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:25:54,329 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:25:54,329 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:25:54,350 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:25:54,350 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:26:37,101 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:26:37,104 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/gQwedY6tiO
+2025-05-30 14:26:37,104 - INFO - Flet app has started...
+2025-05-30 14:26:37,105 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/gQwedY6tiO
+2025-05-30 14:26:37,105 - INFO - Starting Flet View app...
+2025-05-30 14:26:37,105 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:26:37,403 - INFO - App session started
+2025-05-30 14:26:37,439 - INFO - Smart insights updated successfully.
+2025-05-30 14:26:37,456 - INFO - Forecasting started...
+2025-05-30 14:26:37,456 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:26:37,457 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:26:37,485 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:26:37,485 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:26:37,679 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:26:37,679 - INFO - ✅ Build triggered
+2025-05-30 14:26:37,679 - INFO - 📦 Dependencies resolved
+2025-05-30 14:26:37,679 - INFO - 🔄 Model retrained
+2025-05-30 14:26:37,679 - INFO - 🚀 Deployment staged
+2025-05-30 14:26:37,679 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:26:37,679 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:26:39,042 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:26:39,042 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:26:39,047 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:26:39,047 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:27:33,220 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:27:33,223 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/MPBrSXqiFX
+2025-05-30 14:27:33,225 - INFO - Flet app has started...
+2025-05-30 14:27:33,226 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/MPBrSXqiFX
+2025-05-30 14:27:33,227 - INFO - Starting Flet View app...
+2025-05-30 14:27:33,227 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:27:33,569 - INFO - App session started
+2025-05-30 14:27:33,609 - INFO - Smart insights updated successfully.
+2025-05-30 14:27:33,625 - INFO - Forecasting started...
+2025-05-30 14:27:33,625 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:27:33,625 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:27:33,660 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:27:33,660 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:27:33,867 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:27:33,868 - INFO - ✅ Build triggered
+2025-05-30 14:27:33,868 - INFO - 📦 Dependencies resolved
+2025-05-30 14:27:33,868 - INFO - 🔄 Model retrained
+2025-05-30 14:27:33,868 - INFO - 🚀 Deployment staged
+2025-05-30 14:27:33,868 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:27:33,868 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:27:35,119 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:27:35,119 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:27:35,125 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:27:35,125 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:28:19,997 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:28:19,999 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/TMDay5frRB
+2025-05-30 14:28:19,999 - INFO - Flet app has started...
+2025-05-30 14:28:19,999 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/TMDay5frRB
+2025-05-30 14:28:19,999 - INFO - Starting Flet View app...
+2025-05-30 14:28:20,000 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:28:20,350 - INFO - App session started
+2025-05-30 14:28:20,402 - INFO - Smart insights updated successfully.
+2025-05-30 14:28:20,431 - INFO - Forecasting started...
+2025-05-30 14:28:20,431 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:28:20,431 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:28:20,462 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:28:20,462 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:28:20,673 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:28:20,673 - INFO - ✅ Build triggered
+2025-05-30 14:28:20,673 - INFO - 📦 Dependencies resolved
+2025-05-30 14:28:20,673 - INFO - 🔄 Model retrained
+2025-05-30 14:28:20,673 - INFO - 🚀 Deployment staged
+2025-05-30 14:28:20,673 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:28:20,673 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:28:36,697 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:28:36,698 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/TgvAMIlH0n
+2025-05-30 14:28:36,698 - INFO - Flet app has started...
+2025-05-30 14:28:36,699 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/TgvAMIlH0n
+2025-05-30 14:28:36,699 - INFO - Starting Flet View app...
+2025-05-30 14:28:36,699 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:28:37,052 - INFO - App session started
+2025-05-30 14:28:37,107 - INFO - Smart insights updated successfully.
+2025-05-30 14:28:37,126 - INFO - Forecasting started...
+2025-05-30 14:28:37,126 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:28:37,127 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:28:37,164 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:28:37,164 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:28:37,374 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:28:37,374 - INFO - ✅ Build triggered
+2025-05-30 14:28:37,374 - INFO - 📦 Dependencies resolved
+2025-05-30 14:28:37,374 - INFO - 🔄 Model retrained
+2025-05-30 14:28:37,374 - INFO - 🚀 Deployment staged
+2025-05-30 14:28:37,374 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:28:37,374 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:28:38,731 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:28:38,732 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:28:38,755 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:28:38,755 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:29:33,257 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:29:33,259 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/3AAZNhXxCf
+2025-05-30 14:29:33,259 - INFO - Flet app has started...
+2025-05-30 14:29:33,259 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/3AAZNhXxCf
+2025-05-30 14:29:33,259 - INFO - Starting Flet View app...
+2025-05-30 14:29:33,259 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:29:33,475 - INFO - App session started
+2025-05-30 14:29:33,506 - INFO - Smart insights updated successfully.
+2025-05-30 14:29:33,520 - INFO - Forecasting started...
+2025-05-30 14:29:33,520 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:29:33,521 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:29:33,545 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:29:33,545 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:29:33,722 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:29:33,722 - INFO - ✅ Build triggered
+2025-05-30 14:29:33,722 - INFO - 📦 Dependencies resolved
+2025-05-30 14:29:33,722 - INFO - 🔄 Model retrained
+2025-05-30 14:29:33,722 - INFO - 🚀 Deployment staged
+2025-05-30 14:29:33,722 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:29:33,722 - INFO - Attempting to send email to recipient@example.com with subject 'Forecast Complete' and attachment 'forecast_output_auto.csv'
+2025-05-30 14:29:35,173 - INFO - ✅ Email with attachment sent successfully.
+2025-05-30 14:29:35,173 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:29:35,191 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:29:35,192 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:35:22,113 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:35:22,115 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/OvMYVI4485
+2025-05-30 14:35:22,115 - INFO - Flet app has started...
+2025-05-30 14:35:22,116 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/OvMYVI4485
+2025-05-30 14:35:22,116 - INFO - Starting Flet View app...
+2025-05-30 14:35:22,116 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:35:22,409 - INFO - App session started
+2025-05-30 14:35:22,452 - INFO - Smart insights updated successfully.
+2025-05-30 14:35:22,468 - INFO - Forecasting started...
+2025-05-30 14:35:22,468 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:35:22,469 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:35:22,499 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:35:22,499 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:35:22,673 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:35:22,673 - INFO - ✅ Build triggered
+2025-05-30 14:35:22,673 - INFO - 📦 Dependencies resolved
+2025-05-30 14:35:22,673 - INFO - 🔄 Model retrained
+2025-05-30 14:35:22,673 - INFO - 🚀 Deployment staged
+2025-05-30 14:35:22,673 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:35:22,673 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:35:22,678 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:35:22,678 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:36:39,481 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:36:39,482 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/gFAt4EkjiX
+2025-05-30 14:36:39,482 - INFO - Flet app has started...
+2025-05-30 14:36:39,483 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/gFAt4EkjiX
+2025-05-30 14:36:39,483 - INFO - Starting Flet View app...
+2025-05-30 14:36:39,483 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:36:39,749 - INFO - App session started
+2025-05-30 14:36:39,781 - INFO - Smart insights updated successfully.
+2025-05-30 14:36:39,798 - INFO - Forecasting started...
+2025-05-30 14:36:39,798 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:36:39,799 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:36:39,825 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:36:39,825 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:36:40,013 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:36:40,013 - INFO - ✅ Build triggered
+2025-05-30 14:36:40,014 - INFO - 📦 Dependencies resolved
+2025-05-30 14:36:40,014 - INFO - 🔄 Model retrained
+2025-05-30 14:36:40,014 - INFO - 🚀 Deployment staged
+2025-05-30 14:36:40,014 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:36:40,014 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:36:40,018 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:36:40,018 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:38:58,347 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:38:58,351 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/PuBgXzwy1x
+2025-05-30 14:38:58,351 - INFO - Flet app has started...
+2025-05-30 14:38:58,352 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/PuBgXzwy1x
+2025-05-30 14:38:58,352 - INFO - Starting Flet View app...
+2025-05-30 14:38:58,352 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:38:58,615 - INFO - App session started
+2025-05-30 14:38:58,650 - INFO - Smart insights updated successfully.
+2025-05-30 14:38:58,665 - INFO - Forecasting started...
+2025-05-30 14:38:58,665 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:38:58,666 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:38:58,691 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:38:58,691 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:38:58,888 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:38:58,888 - INFO - ✅ Build triggered
+2025-05-30 14:38:58,888 - INFO - 📦 Dependencies resolved
+2025-05-30 14:38:58,888 - INFO - 🔄 Model retrained
+2025-05-30 14:38:58,888 - INFO - 🚀 Deployment staged
+2025-05-30 14:38:58,889 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:38:58,889 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:38:58,893 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:38:58,893 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:40:11,380 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:40:11,382 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/DxMJfzNh3q
+2025-05-30 14:40:11,382 - INFO - Flet app has started...
+2025-05-30 14:40:11,383 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/DxMJfzNh3q
+2025-05-30 14:40:11,383 - INFO - Starting Flet View app...
+2025-05-30 14:40:11,383 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:40:11,688 - INFO - App session started
+2025-05-30 14:40:11,725 - INFO - Smart insights updated successfully.
+2025-05-30 14:40:11,741 - INFO - Forecasting started...
+2025-05-30 14:40:11,741 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:40:11,741 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:40:11,768 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:40:11,768 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:40:11,950 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:40:11,950 - INFO - ✅ Build triggered
+2025-05-30 14:40:11,950 - INFO - 📦 Dependencies resolved
+2025-05-30 14:40:11,950 - INFO - 🔄 Model retrained
+2025-05-30 14:40:11,950 - INFO - 🚀 Deployment staged
+2025-05-30 14:40:11,950 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:40:11,950 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:40:11,954 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:40:11,954 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:42:25,863 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:42:25,865 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/fNQOnHz8n2
+2025-05-30 14:42:25,865 - INFO - Flet app has started...
+2025-05-30 14:42:25,866 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/fNQOnHz8n2
+2025-05-30 14:42:25,866 - INFO - Starting Flet View app...
+2025-05-30 14:42:25,866 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:42:26,210 - INFO - App session started
+2025-05-30 14:42:26,254 - INFO - Smart insights updated successfully.
+2025-05-30 14:42:26,270 - INFO - Forecasting started...
+2025-05-30 14:42:26,271 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:42:26,271 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:42:26,303 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:42:26,303 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:42:26,484 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:42:26,484 - INFO - ✅ Build triggered
+2025-05-30 14:42:26,484 - INFO - 📦 Dependencies resolved
+2025-05-30 14:42:26,484 - INFO - 🔄 Model retrained
+2025-05-30 14:42:26,484 - INFO - 🚀 Deployment staged
+2025-05-30 14:42:26,484 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:42:26,484 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:42:26,490 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:42:26,490 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:42:38,103 - INFO - Email sent to gaudeep0901@gmail.com
+2025-05-30 14:49:04,481 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:49:04,483 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/w3LZGVw0HG
+2025-05-30 14:49:04,483 - INFO - Flet app has started...
+2025-05-30 14:49:04,484 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/w3LZGVw0HG
+2025-05-30 14:49:04,484 - INFO - Starting Flet View app...
+2025-05-30 14:49:04,484 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:49:04,748 - INFO - App session started
+2025-05-30 14:49:04,778 - INFO - Smart insights updated successfully.
+2025-05-30 14:49:04,794 - INFO - Forecasting started...
+2025-05-30 14:49:04,794 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:49:04,794 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:49:04,822 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:49:04,822 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:49:05,008 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:49:05,009 - INFO - ✅ Build triggered
+2025-05-30 14:49:05,009 - INFO - 📦 Dependencies resolved
+2025-05-30 14:49:05,009 - INFO - 🔄 Model retrained
+2025-05-30 14:49:05,009 - INFO - 🚀 Deployment staged
+2025-05-30 14:49:05,009 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:49:05,009 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:49:05,013 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:49:05,013 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:50:10,292 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:50:10,294 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/1NHfX2ZsQ6
+2025-05-30 14:50:10,294 - INFO - Flet app has started...
+2025-05-30 14:50:10,294 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/1NHfX2ZsQ6
+2025-05-30 14:50:10,294 - INFO - Starting Flet View app...
+2025-05-30 14:50:10,294 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:50:10,568 - INFO - App session started
+2025-05-30 14:50:10,610 - INFO - Smart insights updated successfully.
+2025-05-30 14:50:10,628 - INFO - Forecasting started...
+2025-05-30 14:50:10,628 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:50:10,629 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:50:10,662 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:50:10,662 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:50:10,888 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:50:10,888 - INFO - ✅ Build triggered
+2025-05-30 14:50:10,888 - INFO - 📦 Dependencies resolved
+2025-05-30 14:50:10,888 - INFO - 🔄 Model retrained
+2025-05-30 14:50:10,888 - INFO - 🚀 Deployment staged
+2025-05-30 14:50:10,888 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:50:10,888 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:50:10,893 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:50:10,893 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:51:02,047 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:51:02,048 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/EFQrWvOdqs
+2025-05-30 14:51:02,049 - INFO - Flet app has started...
+2025-05-30 14:51:02,049 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/EFQrWvOdqs
+2025-05-30 14:51:02,049 - INFO - Starting Flet View app...
+2025-05-30 14:51:02,049 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:51:02,328 - INFO - App session started
+2025-05-30 14:51:02,360 - INFO - Smart insights updated successfully.
+2025-05-30 14:51:02,375 - INFO - Forecasting started...
+2025-05-30 14:51:02,375 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:51:02,375 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:51:02,401 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:51:02,401 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:51:02,585 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:51:02,585 - INFO - ✅ Build triggered
+2025-05-30 14:51:02,585 - INFO - 📦 Dependencies resolved
+2025-05-30 14:51:02,585 - INFO - 🔄 Model retrained
+2025-05-30 14:51:02,585 - INFO - 🚀 Deployment staged
+2025-05-30 14:51:02,585 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:51:02,585 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:51:02,590 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:51:02,590 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:53:22,501 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:53:22,502 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/CKDfWWqp1S
+2025-05-30 14:53:22,502 - INFO - Flet app has started...
+2025-05-30 14:53:22,503 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/CKDfWWqp1S
+2025-05-30 14:53:22,503 - INFO - Starting Flet View app...
+2025-05-30 14:53:22,503 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:53:22,700 - INFO - App session started
+2025-05-30 14:53:22,730 - INFO - Smart insights updated successfully.
+2025-05-30 14:53:22,744 - INFO - Forecasting started...
+2025-05-30 14:53:22,744 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:53:22,745 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:53:22,770 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:53:22,770 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:53:22,942 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:53:22,942 - INFO - ✅ Build triggered
+2025-05-30 14:53:22,943 - INFO - 📦 Dependencies resolved
+2025-05-30 14:53:22,943 - INFO - 🔄 Model retrained
+2025-05-30 14:53:22,943 - INFO - 🚀 Deployment staged
+2025-05-30 14:53:22,943 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:53:22,943 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:53:22,947 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:53:22,947 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 14:57:24,547 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 14:57:24,548 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/SUXJ8CPQHQ
+2025-05-30 14:57:24,548 - INFO - Flet app has started...
+2025-05-30 14:57:24,549 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/SUXJ8CPQHQ
+2025-05-30 14:57:24,549 - INFO - Starting Flet View app...
+2025-05-30 14:57:24,549 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 14:57:24,779 - INFO - App session started
+2025-05-30 14:57:24,811 - INFO - Smart insights updated successfully.
+2025-05-30 14:57:24,824 - INFO - Forecasting started...
+2025-05-30 14:57:24,825 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 14:57:24,825 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 14:57:24,850 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 14:57:24,850 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 14:57:25,046 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 14:57:25,046 - INFO - ✅ Build triggered
+2025-05-30 14:57:25,046 - INFO - 📦 Dependencies resolved
+2025-05-30 14:57:25,046 - INFO - 🔄 Model retrained
+2025-05-30 14:57:25,046 - INFO - 🚀 Deployment staged
+2025-05-30 14:57:25,046 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 14:57:25,046 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 14:57:25,051 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 14:57:25,051 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 15:03:39,654 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 15:03:39,658 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/cB7nmb6reH
+2025-05-30 15:03:39,658 - INFO - Flet app has started...
+2025-05-30 15:03:39,659 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/cB7nmb6reH
+2025-05-30 15:03:39,659 - INFO - Starting Flet View app...
+2025-05-30 15:03:39,659 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 15:03:39,904 - INFO - App session started
+2025-05-30 15:03:39,943 - INFO - Smart insights updated successfully.
+2025-05-30 15:03:39,978 - INFO - Forecasting started...
+2025-05-30 15:03:39,978 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 15:03:39,978 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 15:03:40,017 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 15:03:40,017 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 15:03:40,190 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 15:03:40,190 - INFO - ✅ Build triggered
+2025-05-30 15:03:40,190 - INFO - 📦 Dependencies resolved
+2025-05-30 15:03:40,190 - INFO - 🔄 Model retrained
+2025-05-30 15:03:40,190 - INFO - 🚀 Deployment staged
+2025-05-30 15:03:40,190 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 15:03:40,190 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 15:03:40,194 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 15:03:40,194 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 15:05:58,447 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 15:05:58,448 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/PZSxxBsKJS
+2025-05-30 15:05:58,448 - INFO - Flet app has started...
+2025-05-30 15:05:58,449 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/PZSxxBsKJS
+2025-05-30 15:05:58,449 - INFO - Starting Flet View app...
+2025-05-30 15:05:58,449 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 15:05:58,704 - INFO - App session started
+2025-05-30 15:05:58,742 - INFO - Smart insights updated successfully.
+2025-05-30 15:05:58,763 - INFO - Forecasting started...
+2025-05-30 15:05:58,763 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 15:05:58,764 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 15:05:58,799 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 15:05:58,799 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 15:05:59,006 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 15:05:59,007 - INFO - ✅ Build triggered
+2025-05-30 15:05:59,007 - INFO - 📦 Dependencies resolved
+2025-05-30 15:05:59,007 - INFO - 🔄 Model retrained
+2025-05-30 15:05:59,007 - INFO - 🚀 Deployment staged
+2025-05-30 15:05:59,007 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 15:05:59,007 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 15:05:59,012 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 15:05:59,012 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 15:08:41,094 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 15:08:41,097 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/dMkUnVvVg2
+2025-05-30 15:08:41,097 - INFO - Flet app has started...
+2025-05-30 15:08:41,098 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/dMkUnVvVg2
+2025-05-30 15:08:41,098 - INFO - Starting Flet View app...
+2025-05-30 15:08:41,098 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 15:08:41,421 - INFO - App session started
+2025-05-30 15:08:41,461 - INFO - Smart insights updated successfully.
+2025-05-30 15:08:41,480 - INFO - Forecasting started...
+2025-05-30 15:08:41,480 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 15:08:41,482 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 15:08:41,510 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 15:08:41,510 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 15:08:41,730 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 15:08:41,730 - INFO - ✅ Build triggered
+2025-05-30 15:08:41,730 - INFO - 📦 Dependencies resolved
+2025-05-30 15:08:41,730 - INFO - 🔄 Model retrained
+2025-05-30 15:08:41,730 - INFO - 🚀 Deployment staged
+2025-05-30 15:08:41,730 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 15:08:41,730 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 15:08:41,735 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 15:08:41,735 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 15:09:14,975 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 15:09:14,977 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/zI69sNRZgU
+2025-05-30 15:09:14,978 - INFO - Flet app has started...
+2025-05-30 15:09:14,979 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/zI69sNRZgU
+2025-05-30 15:09:14,979 - INFO - Starting Flet View app...
+2025-05-30 15:09:14,979 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 15:09:15,323 - INFO - App session started
+2025-05-30 15:09:15,357 - INFO - Smart insights updated successfully.
+2025-05-30 15:09:15,373 - INFO - Forecasting started...
+2025-05-30 15:09:15,373 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 15:09:15,374 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 15:09:15,403 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 15:09:15,403 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 15:09:15,590 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 15:09:15,590 - INFO - ✅ Build triggered
+2025-05-30 15:09:15,590 - INFO - 📦 Dependencies resolved
+2025-05-30 15:09:15,590 - INFO - 🔄 Model retrained
+2025-05-30 15:09:15,590 - INFO - 🚀 Deployment staged
+2025-05-30 15:09:15,590 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 15:09:15,590 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 15:09:15,596 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 15:09:15,596 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 15:10:24,800 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 15:10:24,802 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/WhkD0FAgfT
+2025-05-30 15:10:24,802 - INFO - Flet app has started...
+2025-05-30 15:10:24,803 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/WhkD0FAgfT
+2025-05-30 15:10:24,803 - INFO - Starting Flet View app...
+2025-05-30 15:10:24,803 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 15:10:25,169 - INFO - App session started
+2025-05-30 15:10:25,206 - INFO - Smart insights updated successfully.
+2025-05-30 15:10:25,225 - INFO - Forecasting started...
+2025-05-30 15:10:25,225 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 15:10:25,226 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 15:10:25,262 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 15:10:25,262 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 15:10:25,466 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 15:10:25,466 - INFO - ✅ Build triggered
+2025-05-30 15:10:25,466 - INFO - 📦 Dependencies resolved
+2025-05-30 15:10:25,466 - INFO - 🔄 Model retrained
+2025-05-30 15:10:25,466 - INFO - 🚀 Deployment staged
+2025-05-30 15:10:25,466 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 15:10:25,466 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 15:10:25,471 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 15:10:25,471 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 15:11:37,168 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 15:11:37,170 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/nUnsTB0wbi
+2025-05-30 15:11:37,170 - INFO - Flet app has started...
+2025-05-30 15:11:37,171 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/nUnsTB0wbi
+2025-05-30 15:11:37,171 - INFO - Starting Flet View app...
+2025-05-30 15:11:37,171 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 15:11:37,553 - INFO - App session started
+2025-05-30 15:11:37,633 - INFO - Smart insights updated successfully.
+2025-05-30 15:11:37,651 - INFO - Forecasting started...
+2025-05-30 15:11:37,651 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 15:11:37,651 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 15:11:37,681 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 15:11:37,681 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 15:11:37,874 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 15:11:37,874 - INFO - ✅ Build triggered
+2025-05-30 15:11:37,874 - INFO - 📦 Dependencies resolved
+2025-05-30 15:11:37,874 - INFO - 🔄 Model retrained
+2025-05-30 15:11:37,874 - INFO - 🚀 Deployment staged
+2025-05-30 15:11:37,874 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 15:11:37,874 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 15:11:37,879 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 15:11:37,879 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 15:14:00,967 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 15:14:00,970 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/MCLIF8J5K5
+2025-05-30 15:14:00,970 - INFO - Flet app has started...
+2025-05-30 15:14:00,971 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/MCLIF8J5K5
+2025-05-30 15:14:00,971 - INFO - Starting Flet View app...
+2025-05-30 15:14:00,971 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 15:14:01,377 - INFO - App session started
+2025-05-30 15:14:01,441 - INFO - Smart insights updated successfully.
+2025-05-30 15:14:01,461 - INFO - Forecasting started...
+2025-05-30 15:14:01,461 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 15:14:01,462 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 15:14:01,495 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 15:14:01,495 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 15:14:01,695 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 15:14:01,695 - INFO - ✅ Build triggered
+2025-05-30 15:14:01,695 - INFO - 📦 Dependencies resolved
+2025-05-30 15:14:01,695 - INFO - 🔄 Model retrained
+2025-05-30 15:14:01,695 - INFO - 🚀 Deployment staged
+2025-05-30 15:14:01,695 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 15:14:01,695 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 15:14:01,701 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 15:14:01,702 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 15:17:45,994 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 15:17:45,997 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/F1nZPhiia3
+2025-05-30 15:17:45,997 - INFO - Flet app has started...
+2025-05-30 15:17:45,998 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/F1nZPhiia3
+2025-05-30 15:17:45,998 - INFO - Starting Flet View app...
+2025-05-30 15:17:45,998 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 15:17:46,493 - INFO - App session started
+2025-05-30 15:17:46,532 - INFO - Smart insights updated successfully.
+2025-05-30 15:17:46,550 - INFO - Forecasting started...
+2025-05-30 15:17:46,550 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 15:17:46,551 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 15:17:46,581 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 15:17:46,581 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 15:17:46,859 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 15:17:46,859 - INFO - ✅ Build triggered
+2025-05-30 15:17:46,859 - INFO - 📦 Dependencies resolved
+2025-05-30 15:17:46,859 - INFO - 🔄 Model retrained
+2025-05-30 15:17:46,859 - INFO - 🚀 Deployment staged
+2025-05-30 15:17:46,859 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 15:17:46,859 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 15:17:46,867 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 15:17:46,867 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 15:21:14,191 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 15:21:14,194 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/yECvEsM6mk
+2025-05-30 15:21:14,195 - INFO - Flet app has started...
+2025-05-30 15:21:14,196 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/yECvEsM6mk
+2025-05-30 15:21:14,196 - INFO - Starting Flet View app...
+2025-05-30 15:21:14,196 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 15:21:14,912 - INFO - App session started
+2025-05-30 15:21:15,050 - INFO - Smart insights updated successfully.
+2025-05-30 15:21:15,091 - INFO - Forecasting started...
+2025-05-30 15:21:15,091 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 15:21:15,093 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 15:21:15,194 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 15:21:15,194 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 15:21:16,453 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 15:21:16,453 - INFO - ✅ Build triggered
+2025-05-30 15:21:16,453 - INFO - 📦 Dependencies resolved
+2025-05-30 15:21:16,453 - INFO - 🔄 Model retrained
+2025-05-30 15:21:16,453 - INFO - 🚀 Deployment staged
+2025-05-30 15:21:16,454 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 15:21:16,454 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 15:21:16,480 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 15:21:16,480 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 19:39:59,972 - INFO - Email sent to gaudeep0901@gmail.com
+2025-05-30 21:39:25,958 - INFO - Forecasting started...
+2025-05-30 21:39:25,961 - INFO - Selected model: Compare Both, Forecast horizon: 31 periods
+2025-05-30 21:39:25,986 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 21:39:26,050 - INFO - MAE (XGBoost): 1600.50, RMSE: 2042.36
+2025-05-30 21:39:26,050 - INFO - MAE (ARIMA): 2119.80, RMSE: 2449.16
+2025-05-30 21:39:26,202 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 21:39:26,202 - INFO - ✅ Build triggered
+2025-05-30 21:39:26,202 - INFO - 📦 Dependencies resolved
+2025-05-30 21:39:26,202 - INFO - 🔄 Model retrained
+2025-05-30 21:39:26,202 - INFO - 🚀 Deployment staged
+2025-05-30 21:39:26,202 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 21:39:26,202 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 21:39:26,206 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 21:39:26,206 - INFO - XGBoost MAE: 1600.50, RMSE: 2042.36
+2025-05-30 21:41:05,955 - INFO - Email sent to gaudeep2k1@gmail.com
+2025-05-30 23:03:55,034 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:03:55,036 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/57MfyCkgOW
+2025-05-30 23:03:55,037 - INFO - Flet app has started...
+2025-05-30 23:03:55,037 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/57MfyCkgOW
+2025-05-30 23:03:55,037 - INFO - Starting Flet View app...
+2025-05-30 23:03:55,037 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:03:55,322 - INFO - App session started
+2025-05-30 23:03:55,364 - INFO - Smart insights updated successfully.
+2025-05-30 23:03:55,379 - INFO - Forecasting started...
+2025-05-30 23:03:55,379 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:03:55,380 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:03:55,408 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:03:55,408 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:03:55,584 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:03:55,584 - INFO - ✅ Build triggered
+2025-05-30 23:03:55,584 - INFO - 📦 Dependencies resolved
+2025-05-30 23:03:55,584 - INFO - 🔄 Model retrained
+2025-05-30 23:03:55,584 - INFO - 🚀 Deployment staged
+2025-05-30 23:03:55,584 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:03:55,584 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 23:03:55,588 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 23:03:55,589 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:06:02,346 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:06:02,347 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/TY9eTpqs2m
+2025-05-30 23:06:02,347 - INFO - Flet app has started...
+2025-05-30 23:06:02,348 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/TY9eTpqs2m
+2025-05-30 23:06:02,348 - INFO - Starting Flet View app...
+2025-05-30 23:06:02,348 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:06:02,561 - INFO - App session started
+2025-05-30 23:06:02,593 - INFO - Smart insights updated successfully.
+2025-05-30 23:06:02,606 - INFO - Forecasting started...
+2025-05-30 23:06:02,606 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:06:02,607 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:06:02,631 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:06:02,631 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:06:02,808 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:06:02,808 - INFO - ✅ Build triggered
+2025-05-30 23:06:02,808 - INFO - 📦 Dependencies resolved
+2025-05-30 23:06:02,808 - INFO - 🔄 Model retrained
+2025-05-30 23:06:02,808 - INFO - 🚀 Deployment staged
+2025-05-30 23:06:02,808 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:06:02,808 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 23:06:02,813 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 23:06:02,813 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:07:48,321 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:07:48,322 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/bzTObd52VO
+2025-05-30 23:07:48,322 - INFO - Flet app has started...
+2025-05-30 23:07:48,322 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/bzTObd52VO
+2025-05-30 23:07:48,322 - INFO - Starting Flet View app...
+2025-05-30 23:07:48,322 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:07:48,535 - INFO - App session started
+2025-05-30 23:07:48,566 - INFO - Smart insights updated successfully.
+2025-05-30 23:07:48,578 - INFO - Forecasting started...
+2025-05-30 23:07:48,578 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:07:48,578 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:07:48,601 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:07:48,601 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:07:48,777 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:07:48,778 - INFO - ✅ Build triggered
+2025-05-30 23:07:48,778 - INFO - 📦 Dependencies resolved
+2025-05-30 23:07:48,778 - INFO - 🔄 Model retrained
+2025-05-30 23:07:48,778 - INFO - 🚀 Deployment staged
+2025-05-30 23:07:48,778 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:07:48,778 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 23:07:48,782 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 23:07:48,782 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:09:53,201 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:09:53,203 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/xifECKGDGp
+2025-05-30 23:09:53,204 - INFO - Flet app has started...
+2025-05-30 23:09:53,204 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/xifECKGDGp
+2025-05-30 23:09:53,204 - INFO - Starting Flet View app...
+2025-05-30 23:09:53,204 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:09:53,413 - INFO - App session started
+2025-05-30 23:09:53,446 - INFO - Smart insights updated successfully.
+2025-05-30 23:09:53,461 - INFO - Forecasting started...
+2025-05-30 23:09:53,461 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:09:53,461 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:09:53,486 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:09:53,486 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:09:53,648 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:09:53,648 - INFO - ✅ Build triggered
+2025-05-30 23:09:53,648 - INFO - 📦 Dependencies resolved
+2025-05-30 23:09:53,648 - INFO - 🔄 Model retrained
+2025-05-30 23:09:53,648 - INFO - 🚀 Deployment staged
+2025-05-30 23:09:53,648 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:09:53,648 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 23:09:53,652 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 23:09:53,652 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:11:07,355 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:11:07,356 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/xjIxiX6Czy
+2025-05-30 23:11:07,356 - INFO - Flet app has started...
+2025-05-30 23:11:07,356 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/xjIxiX6Czy
+2025-05-30 23:11:07,356 - INFO - Starting Flet View app...
+2025-05-30 23:11:07,356 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:11:07,563 - INFO - App session started
+2025-05-30 23:11:07,596 - INFO - Smart insights updated successfully.
+2025-05-30 23:11:07,607 - INFO - Forecasting started...
+2025-05-30 23:11:07,607 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:11:07,608 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:11:07,630 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:11:07,630 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:11:07,802 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:11:07,802 - INFO - ✅ Build triggered
+2025-05-30 23:11:07,802 - INFO - 📦 Dependencies resolved
+2025-05-30 23:11:07,802 - INFO - 🔄 Model retrained
+2025-05-30 23:11:07,802 - INFO - 🚀 Deployment staged
+2025-05-30 23:11:07,802 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:11:07,802 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 23:11:07,806 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 23:11:07,806 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:12:38,705 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:12:38,706 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/3pRvhkSviC
+2025-05-30 23:12:38,706 - INFO - Flet app has started...
+2025-05-30 23:12:38,706 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/3pRvhkSviC
+2025-05-30 23:12:38,706 - INFO - Starting Flet View app...
+2025-05-30 23:12:38,707 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:12:38,925 - INFO - App session started
+2025-05-30 23:12:38,960 - INFO - Smart insights updated successfully.
+2025-05-30 23:12:38,972 - INFO - Forecasting started...
+2025-05-30 23:12:38,972 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:12:38,972 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:12:38,997 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:12:38,997 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:12:39,170 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:12:39,171 - INFO - ✅ Build triggered
+2025-05-30 23:12:39,171 - INFO - 📦 Dependencies resolved
+2025-05-30 23:12:39,171 - INFO - 🔄 Model retrained
+2025-05-30 23:12:39,171 - INFO - 🚀 Deployment staged
+2025-05-30 23:12:39,171 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:12:39,171 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 23:12:39,175 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 23:12:39,175 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:12:49,903 - INFO - Email sent to gaudeep0901@gmail.com
+2025-05-30 23:12:49,912 - ERROR - Future exception was never retrieved
+future: <Future finished exception=UnboundLocalError("cannot access local variable 'datetime' where it is not associated with a value")>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/flet/core/page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "/Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/Test.py", line 191, in send_forecast_email
+    email_history_text.value += f"• Sent to {email_address} at {datetime.now().strftime('%H:%M:%S')}\n"
+                                                                ^^^^^^^^
+UnboundLocalError: cannot access local variable 'datetime' where it is not associated with a value
+2025-05-30 23:13:41,129 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:13:41,131 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/FRQeHPIkT8
+2025-05-30 23:13:41,131 - INFO - Flet app has started...
+2025-05-30 23:13:41,131 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/FRQeHPIkT8
+2025-05-30 23:13:41,132 - INFO - Starting Flet View app...
+2025-05-30 23:13:41,132 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:13:41,402 - INFO - App session started
+2025-05-30 23:13:41,441 - INFO - Smart insights updated successfully.
+2025-05-30 23:13:41,459 - INFO - Forecasting started...
+2025-05-30 23:13:41,459 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:13:41,460 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:13:41,488 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:13:41,488 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:13:41,697 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:13:41,697 - INFO - ✅ Build triggered
+2025-05-30 23:13:41,697 - INFO - 📦 Dependencies resolved
+2025-05-30 23:13:41,697 - INFO - 🔄 Model retrained
+2025-05-30 23:13:41,697 - INFO - 🚀 Deployment staged
+2025-05-30 23:13:41,697 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:13:41,697 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 23:13:41,703 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 23:13:41,704 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:13:56,501 - INFO - Email sent to gaudeep0901@gmail.com
+2025-05-30 23:13:56,513 - ERROR - Future exception was never retrieved
+future: <Future finished exception=UnboundLocalError("cannot access local variable 'datetime' where it is not associated with a value")>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/flet/core/page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "/Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/Test.py", line 192, in send_forecast_email
+    email_history_text.value += f"• Sent to {email_address} at {datetime.now().strftime('%H:%M:%S')}\n"
+                                                                ^^^^^^^^
+UnboundLocalError: cannot access local variable 'datetime' where it is not associated with a value
+2025-05-30 23:14:41,862 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:14:41,864 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/G6WwH4Htbj
+2025-05-30 23:14:41,864 - INFO - Flet app has started...
+2025-05-30 23:14:41,865 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/G6WwH4Htbj
+2025-05-30 23:14:41,865 - INFO - Starting Flet View app...
+2025-05-30 23:14:41,865 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:14:42,140 - INFO - App session started
+2025-05-30 23:14:42,180 - INFO - Smart insights updated successfully.
+2025-05-30 23:14:42,203 - INFO - Forecasting started...
+2025-05-30 23:14:42,203 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:14:42,204 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:14:42,235 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:14:42,235 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:14:42,442 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:14:42,442 - INFO - ✅ Build triggered
+2025-05-30 23:14:42,442 - INFO - 📦 Dependencies resolved
+2025-05-30 23:14:42,442 - INFO - 🔄 Model retrained
+2025-05-30 23:14:42,442 - INFO - 🚀 Deployment staged
+2025-05-30 23:14:42,442 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:14:42,442 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 23:14:42,448 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 23:14:42,448 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:14:53,184 - INFO - Email sent to gaudeep0901@gmail.com
+2025-05-30 23:14:53,193 - ERROR - Future exception was never retrieved
+future: <Future finished exception=UnboundLocalError("cannot access local variable 'datetime' where it is not associated with a value")>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/flet/core/page.py", line 906, in wrapper
+    handler(*args)
+    ~~~~~~~^^^^^^^
+  File "/Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/Test.py", line 191, in send_forecast_email
+    email_history_text.value += f"• Sent to {email_address} at {datetime.now().strftime('%H:%M:%S')}\n"
+                                                                ^^^^^^^^
+UnboundLocalError: cannot access local variable 'datetime' where it is not associated with a value
+2025-05-30 23:15:32,414 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:15:32,416 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/CFuZ7ZIL1x
+2025-05-30 23:15:32,416 - INFO - Flet app has started...
+2025-05-30 23:15:32,416 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/CFuZ7ZIL1x
+2025-05-30 23:15:32,416 - INFO - Starting Flet View app...
+2025-05-30 23:15:32,416 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:15:32,674 - INFO - App session started
+2025-05-30 23:15:32,710 - INFO - Smart insights updated successfully.
+2025-05-30 23:15:32,724 - INFO - Forecasting started...
+2025-05-30 23:15:32,724 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:15:32,725 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:15:32,752 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:15:32,752 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:15:32,930 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:15:32,931 - INFO - ✅ Build triggered
+2025-05-30 23:15:32,931 - INFO - 📦 Dependencies resolved
+2025-05-30 23:15:32,931 - INFO - 🔄 Model retrained
+2025-05-30 23:15:32,931 - INFO - 🚀 Deployment staged
+2025-05-30 23:15:32,931 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:15:32,931 - INFO - 🚀 Launching summary dashboard...
+2025-05-30 23:15:32,935 - INFO - Summary dashboard written to summary_dashboard.txt
+2025-05-30 23:15:32,935 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:15:42,121 - INFO - Email sent to gaudeep0901@gmail.com
+2025-05-30 23:15:59,226 - INFO - Email sent to gaudeep2k1@gmail.com
+2025-05-30 23:28:35,689 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:28:35,691 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/sgvUZu042Q
+2025-05-30 23:28:35,691 - INFO - Flet app has started...
+2025-05-30 23:28:35,691 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/sgvUZu042Q
+2025-05-30 23:28:35,691 - INFO - Starting Flet View app...
+2025-05-30 23:28:35,692 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:28:36,014 - INFO - App session started
+2025-05-30 23:28:36,046 - INFO - Smart insights updated successfully.
+2025-05-30 23:28:36,061 - INFO - Forecasting started...
+2025-05-30 23:28:36,061 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:28:36,062 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:28:36,090 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:28:36,090 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:28:36,271 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:28:36,271 - INFO - ✅ Build triggered
+2025-05-30 23:28:36,271 - INFO - 📦 Dependencies resolved
+2025-05-30 23:28:36,271 - INFO - 🔄 Model retrained
+2025-05-30 23:28:36,271 - INFO - 🚀 Deployment staged
+2025-05-30 23:28:36,271 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:28:36,271 - ERROR - Exception during forecasting: name 'auto_start_summary_dashboard' is not defined
+2025-05-30 23:28:58,872 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:28:58,873 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/jbOdlI7APC
+2025-05-30 23:28:58,874 - INFO - Flet app has started...
+2025-05-30 23:28:58,874 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/jbOdlI7APC
+2025-05-30 23:28:58,874 - INFO - Starting Flet View app...
+2025-05-30 23:28:58,874 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:28:59,132 - INFO - App session started
+2025-05-30 23:28:59,163 - INFO - Smart insights updated successfully.
+2025-05-30 23:28:59,178 - INFO - Forecasting started...
+2025-05-30 23:28:59,178 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:28:59,178 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:28:59,204 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:28:59,205 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:28:59,383 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:28:59,384 - INFO - ✅ Build triggered
+2025-05-30 23:28:59,384 - INFO - 📦 Dependencies resolved
+2025-05-30 23:28:59,384 - INFO - 🔄 Model retrained
+2025-05-30 23:28:59,384 - INFO - 🚀 Deployment staged
+2025-05-30 23:28:59,384 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:28:59,384 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:32:34,877 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:32:34,878 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/sC4Of02HYT
+2025-05-30 23:32:34,878 - INFO - Flet app has started...
+2025-05-30 23:32:34,879 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/sC4Of02HYT
+2025-05-30 23:32:34,879 - INFO - Starting Flet View app...
+2025-05-30 23:32:34,879 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:32:35,080 - INFO - App session started
+2025-05-30 23:32:35,111 - INFO - Smart insights updated successfully.
+2025-05-30 23:32:35,124 - INFO - Forecasting started...
+2025-05-30 23:32:35,124 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:32:35,125 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:32:35,147 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:32:35,148 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:32:35,310 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:32:35,310 - INFO - ✅ Build triggered
+2025-05-30 23:32:35,310 - INFO - 📦 Dependencies resolved
+2025-05-30 23:32:35,310 - INFO - 🔄 Model retrained
+2025-05-30 23:32:35,310 - INFO - 🚀 Deployment staged
+2025-05-30 23:32:35,310 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:32:35,310 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:35:54,330 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:35:54,331 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/9J7hC2qq8e
+2025-05-30 23:35:54,332 - INFO - Flet app has started...
+2025-05-30 23:35:54,332 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/9J7hC2qq8e
+2025-05-30 23:35:54,332 - INFO - Starting Flet View app...
+2025-05-30 23:35:54,332 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:35:54,526 - INFO - App session started
+2025-05-30 23:35:54,556 - INFO - Smart insights updated successfully.
+2025-05-30 23:35:54,570 - INFO - Forecasting started...
+2025-05-30 23:35:54,570 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:35:54,570 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:35:54,594 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:35:54,594 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:35:54,761 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:35:54,761 - INFO - ✅ Build triggered
+2025-05-30 23:35:54,761 - INFO - 📦 Dependencies resolved
+2025-05-30 23:35:54,761 - INFO - 🔄 Model retrained
+2025-05-30 23:35:54,761 - INFO - 🚀 Deployment staged
+2025-05-30 23:35:54,761 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:35:54,761 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:43:55,012 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:43:55,016 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/HyNF3QB93R
+2025-05-30 23:43:55,016 - INFO - Flet app has started...
+2025-05-30 23:43:55,017 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/HyNF3QB93R
+2025-05-30 23:43:55,017 - INFO - Starting Flet View app...
+2025-05-30 23:43:55,017 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:43:55,224 - INFO - App session started
+2025-05-30 23:45:10,532 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:45:10,535 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/rAfHaAJJcD
+2025-05-30 23:45:10,535 - INFO - Flet app has started...
+2025-05-30 23:45:10,536 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/rAfHaAJJcD
+2025-05-30 23:45:10,536 - INFO - Starting Flet View app...
+2025-05-30 23:45:10,536 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:45:10,753 - INFO - App session started
+2025-05-30 23:45:22,209 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:45:22,211 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/rcaStXmvGK
+2025-05-30 23:45:22,211 - INFO - Flet app has started...
+2025-05-30 23:45:22,211 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/rcaStXmvGK
+2025-05-30 23:45:22,212 - INFO - Starting Flet View app...
+2025-05-30 23:45:22,212 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:45:22,442 - INFO - App session started
+2025-05-30 23:45:43,268 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:45:43,268 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/a1bKp3QU9I
+2025-05-30 23:45:43,269 - INFO - Flet app has started...
+2025-05-30 23:45:43,269 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/a1bKp3QU9I
+2025-05-30 23:45:43,269 - INFO - Starting Flet View app...
+2025-05-30 23:45:43,269 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:45:43,467 - INFO - App session started
+2025-05-30 23:45:43,498 - INFO - Smart insights updated successfully.
+2025-05-30 23:45:43,513 - INFO - Forecasting started...
+2025-05-30 23:45:43,513 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:45:43,513 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:45:43,537 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:45:43,537 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:45:43,754 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:45:43,754 - INFO - ✅ Build triggered
+2025-05-30 23:45:43,754 - INFO - 📦 Dependencies resolved
+2025-05-30 23:45:43,754 - INFO - 🔄 Model retrained
+2025-05-30 23:45:43,754 - INFO - 🚀 Deployment staged
+2025-05-30 23:45:43,754 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:45:43,754 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:47:56,778 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-30 23:47:56,779 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/bsrKyghrli
+2025-05-30 23:47:56,779 - INFO - Flet app has started...
+2025-05-30 23:47:56,780 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/bsrKyghrli
+2025-05-30 23:47:56,780 - INFO - Starting Flet View app...
+2025-05-30 23:47:56,780 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-30 23:47:57,011 - INFO - App session started
+2025-05-30 23:47:57,057 - INFO - Smart insights updated successfully.
+2025-05-30 23:47:57,071 - INFO - Forecasting started...
+2025-05-30 23:47:57,071 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-30 23:47:57,072 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-30 23:47:57,096 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-30 23:47:57,096 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-30 23:47:57,278 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-30 23:47:57,279 - INFO - ✅ Build triggered
+2025-05-30 23:47:57,279 - INFO - 📦 Dependencies resolved
+2025-05-30 23:47:57,279 - INFO - 🔄 Model retrained
+2025-05-30 23:47:57,279 - INFO - 🚀 Deployment staged
+2025-05-30 23:47:57,279 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-30 23:47:57,279 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-30 23:48:09,101 - INFO - Email sent to gaudeep0901@gmail.com
+2025-05-31 00:03:12,031 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-31 00:03:12,038 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/ibxFApTAmF
+2025-05-31 00:03:12,038 - INFO - Flet app has started...
+2025-05-31 00:03:12,038 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/ibxFApTAmF
+2025-05-31 00:03:12,038 - INFO - Starting Flet View app...
+2025-05-31 00:03:12,039 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-31 00:03:12,267 - INFO - App session started
+2025-05-31 00:03:12,319 - INFO - Smart insights updated successfully.
+2025-05-31 00:03:12,338 - INFO - Forecasting started...
+2025-05-31 00:03:12,338 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-31 00:03:12,339 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-31 00:03:12,379 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-31 00:03:12,379 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-31 00:03:12,600 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-31 00:03:12,600 - INFO - ✅ Build triggered
+2025-05-31 00:03:12,600 - INFO - 📦 Dependencies resolved
+2025-05-31 00:03:12,600 - INFO - 🔄 Model retrained
+2025-05-31 00:03:12,600 - INFO - 🚀 Deployment staged
+2025-05-31 00:03:12,600 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-31 00:03:12,600 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-05-31 00:43:48,378 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-05-31 00:43:48,382 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/14RiNG3Njt
+2025-05-31 00:43:48,382 - INFO - Flet app has started...
+2025-05-31 00:43:48,383 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/14RiNG3Njt
+2025-05-31 00:43:48,383 - INFO - Starting Flet View app...
+2025-05-31 00:43:48,383 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.2
+2025-05-31 00:43:48,690 - INFO - App session started
+2025-05-31 00:43:48,746 - INFO - Smart insights updated successfully.
+2025-05-31 00:43:48,767 - INFO - Forecasting started...
+2025-05-31 00:43:48,767 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-05-31 00:43:48,768 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-05-31 00:43:48,814 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-05-31 00:43:48,814 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-05-31 00:43:49,014 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-05-31 00:43:49,015 - INFO - ✅ Build triggered
+2025-05-31 00:43:49,015 - INFO - 📦 Dependencies resolved
+2025-05-31 00:43:49,015 - INFO - 🔄 Model retrained
+2025-05-31 00:43:49,015 - INFO - 🚀 Deployment staged
+2025-05-31 00:43:49,015 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-05-31 00:43:49,015 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-06 14:57:56,264 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-06 14:57:56,265 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/Myzny8vw2Z
+2025-06-06 14:57:56,265 - INFO - Flet app has started...
+2025-06-06 14:57:56,266 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/Myzny8vw2Z
+2025-06-06 14:57:56,266 - INFO - Starting Flet View app...
+2025-06-06 14:57:56,266 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-06 14:57:58,040 - INFO - App session started
+2025-06-06 14:57:58,087 - INFO - Smart insights updated successfully.
+2025-06-06 14:57:58,135 - INFO - Forecasting started...
+2025-06-06 14:57:58,135 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-06 14:57:58,136 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-06-06 14:57:58,165 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-06 14:57:58,165 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-06 14:57:58,356 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-06 14:57:58,356 - INFO - ✅ Build triggered
+2025-06-06 14:57:58,356 - INFO - 📦 Dependencies resolved
+2025-06-06 14:57:58,356 - INFO - 🔄 Model retrained
+2025-06-06 14:57:58,356 - INFO - 🚀 Deployment staged
+2025-06-06 14:57:58,356 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-06 14:57:58,356 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-06 21:48:31,040 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-06 21:48:31,042 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/4OTBN9edbQ
+2025-06-06 21:48:31,042 - INFO - Flet app has started...
+2025-06-06 21:48:31,042 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/4OTBN9edbQ
+2025-06-06 21:48:31,042 - INFO - Starting Flet View app...
+2025-06-06 21:48:31,042 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-06 21:48:32,822 - INFO - App session started
+2025-06-06 21:48:32,877 - INFO - Smart insights updated successfully.
+2025-06-06 21:48:32,925 - INFO - Forecasting started...
+2025-06-06 21:48:32,925 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-06 21:48:32,926 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-06-06 21:48:32,964 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-06 21:48:32,964 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-06 21:48:33,177 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-06 21:48:33,177 - INFO - ✅ Build triggered
+2025-06-06 21:48:33,177 - INFO - 📦 Dependencies resolved
+2025-06-06 21:48:33,177 - INFO - 🔄 Model retrained
+2025-06-06 21:48:33,177 - INFO - 🚀 Deployment staged
+2025-06-06 21:48:33,177 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-06 21:48:33,177 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-06 21:49:38,856 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-06 21:49:38,858 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/G5nCEgHYcW
+2025-06-06 21:49:38,858 - INFO - Flet app has started...
+2025-06-06 21:49:38,858 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/G5nCEgHYcW
+2025-06-06 21:49:38,858 - INFO - Starting Flet View app...
+2025-06-06 21:49:38,858 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-06 21:49:39,079 - INFO - App session started
+2025-06-06 21:49:39,130 - INFO - Smart insights updated successfully.
+2025-06-06 21:49:39,143 - INFO - Forecasting started...
+2025-06-06 21:49:39,143 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-06 21:49:39,144 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-06-06 21:49:39,172 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-06 21:49:39,172 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-06 21:49:39,354 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-06 21:49:39,354 - INFO - ✅ Build triggered
+2025-06-06 21:49:39,354 - INFO - 📦 Dependencies resolved
+2025-06-06 21:49:39,354 - INFO - 🔄 Model retrained
+2025-06-06 21:49:39,354 - INFO - 🚀 Deployment staged
+2025-06-06 21:49:39,354 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-06 21:49:39,354 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-06 21:52:19,401 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-06 21:52:19,403 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/MGQH3FlTXK
+2025-06-06 21:52:19,403 - INFO - Flet app has started...
+2025-06-06 21:52:19,404 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/MGQH3FlTXK
+2025-06-06 21:52:19,404 - INFO - Starting Flet View app...
+2025-06-06 21:52:19,404 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-06 21:52:19,660 - INFO - App session started
+2025-06-06 21:52:19,703 - INFO - Smart insights updated successfully.
+2025-06-06 21:52:19,723 - INFO - Forecasting started...
+2025-06-06 21:52:19,723 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-06 21:52:19,723 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-06-06 21:52:19,759 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-06 21:52:19,759 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-06 21:52:19,956 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-06 21:52:19,956 - INFO - ✅ Build triggered
+2025-06-06 21:52:19,956 - INFO - 📦 Dependencies resolved
+2025-06-06 21:52:19,956 - INFO - 🔄 Model retrained
+2025-06-06 21:52:19,956 - INFO - 🚀 Deployment staged
+2025-06-06 21:52:19,956 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-06 21:52:19,956 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-06 22:32:26,169 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-06 22:32:26,172 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/ixCANyYvPh
+2025-06-06 22:32:26,172 - INFO - Flet app has started...
+2025-06-06 22:32:26,173 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/ixCANyYvPh
+2025-06-06 22:32:26,173 - INFO - Starting Flet View app...
+2025-06-06 22:32:26,173 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-06 22:32:26,494 - INFO - App session started
+2025-06-06 22:32:26,548 - INFO - Smart insights updated successfully.
+2025-06-06 22:32:26,585 - INFO - Forecasting started...
+2025-06-06 22:32:26,585 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-06 22:32:26,588 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-06-06 22:32:26,624 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-06 22:32:26,624 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-06 22:32:26,801 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-06 22:32:26,801 - INFO - ✅ Build triggered
+2025-06-06 22:32:26,801 - INFO - 📦 Dependencies resolved
+2025-06-06 22:32:26,801 - INFO - 🔄 Model retrained
+2025-06-06 22:32:26,801 - INFO - 🚀 Deployment staged
+2025-06-06 22:32:26,801 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-06 22:32:26,801 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-06 22:36:03,731 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-06 22:36:03,732 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/2cuz35AGER
+2025-06-06 22:36:03,732 - INFO - Flet app has started...
+2025-06-06 22:36:03,733 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/2cuz35AGER
+2025-06-06 22:36:03,733 - INFO - Starting Flet View app...
+2025-06-06 22:36:03,733 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-06 22:36:04,001 - INFO - App session started
+2025-06-06 22:36:04,043 - INFO - Smart insights updated successfully.
+2025-06-06 22:36:04,059 - INFO - Forecasting started...
+2025-06-06 22:36:04,059 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-06 22:36:04,059 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-06-06 22:36:04,093 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-06 22:36:04,093 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-06 22:36:04,267 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-06 22:36:04,267 - INFO - ✅ Build triggered
+2025-06-06 22:36:04,267 - INFO - 📦 Dependencies resolved
+2025-06-06 22:36:04,267 - INFO - 🔄 Model retrained
+2025-06-06 22:36:04,267 - INFO - 🚀 Deployment staged
+2025-06-06 22:36:04,268 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-06 22:36:04,268 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-11 18:17:03,974 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-11 18:17:03,977 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/0v9lLJ7IpO
+2025-06-11 18:17:03,977 - INFO - Flet app has started...
+2025-06-11 18:17:03,978 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/0v9lLJ7IpO
+2025-06-11 18:17:03,978 - INFO - Starting Flet View app...
+2025-06-11 18:17:03,979 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-11 18:17:12,466 - INFO - App session started
+2025-06-11 18:17:12,516 - INFO - Smart insights updated successfully.
+2025-06-11 18:17:12,737 - INFO - Forecasting started...
+2025-06-11 18:17:12,737 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-11 18:17:12,739 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-06-11 18:17:12,779 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-11 18:17:12,779 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-11 18:17:13,194 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-11 18:17:13,194 - INFO - ✅ Build triggered
+2025-06-11 18:17:13,194 - INFO - 📦 Dependencies resolved
+2025-06-11 18:17:13,195 - INFO - 🔄 Model retrained
+2025-06-11 18:17:13,195 - INFO - 🚀 Deployment staged
+2025-06-11 18:17:13,195 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-11 18:17:13,195 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-11 18:24:22,116 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-11 18:24:23,513 - INFO - Starting Flet web server on port 55971...
+2025-06-11 18:24:23,514 - INFO - Web renderer configured: WebRenderer.CANVAS_KIT
+2025-06-11 18:24:23,514 - INFO - Use color emoji: False
+2025-06-11 18:24:23,514 - INFO - Route URL strategy configured: path
+2025-06-11 18:24:23,817 - INFO - Starting up Flet App Manager
+2025-06-11 18:24:23,818 - INFO - App URL: http://127.0.0.1:55971
+2025-06-11 18:24:25,050 - INFO - Temp dir created for patched index and manifest: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/tmpokm_hlv6
+2025-06-11 18:24:25,050 - INFO - Web root: /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/flet_web/web
+2025-06-11 18:24:25,050 - INFO - assets_dir does not exist: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-11 18:24:25,051 - INFO - Assets dir: None
+2025-06-11 18:24:27,236 - INFO - New FletApp: klaklS84
+2025-06-11 18:24:27,479 - INFO - New session created (1 total): _RFZJzZMepSyIm9Ix_293cf70ca05a1a6770bcb4bef249cb5eb960dfb8
+2025-06-11 18:24:27,479 - INFO - Start session: RFZJzZMepSyIm9Ix
+2025-06-11 18:24:27,543 - INFO - Smart insights updated successfully.
+2025-06-11 18:24:27,563 - INFO - Forecasting started...
+2025-06-11 18:24:27,564 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-11 18:24:27,565 - WARNING - Auto hyperparameter tuning failed: auto_hyperparameter_tuning() got an unexpected keyword argument 'date_column'
+2025-06-11 18:24:27,620 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-11 18:24:27,620 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-11 18:24:27,827 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-11 18:24:27,827 - INFO - ✅ Build triggered
+2025-06-11 18:24:27,827 - INFO - 📦 Dependencies resolved
+2025-06-11 18:24:27,827 - INFO - 🔄 Model retrained
+2025-06-11 18:24:27,827 - INFO - 🚀 Deployment staged
+2025-06-11 18:24:27,827 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-11 18:24:27,827 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-11 18:37:17,839 - INFO - Email sent to gaudeep0901@gmail.com
+2025-06-11 19:02:20,037 - INFO - Session disconnected: _RFZJzZMepSyIm9Ix_293cf70ca05a1a6770bcb4bef249cb5eb960dfb8
+2025-06-11 20:02:24,657 - INFO - Delete session (0 left): _RFZJzZMepSyIm9Ix_293cf70ca05a1a6770bcb4bef249cb5eb960dfb8
+2025-06-11 20:02:24,670 - INFO - Disposing FletApp: klaklS84
+2025-06-14 11:31:01,021 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 11:31:01,024 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/xmBV1fwq1o
+2025-06-14 11:31:01,024 - INFO - Flet app has started...
+2025-06-14 11:31:01,025 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/xmBV1fwq1o
+2025-06-14 11:31:01,025 - INFO - Starting Flet View app...
+2025-06-14 11:31:01,025 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 11:31:02,111 - INFO - App session started
+2025-06-14 11:31:02,204 - INFO - Smart insights updated successfully.
+2025-06-14 11:31:02,339 - INFO - Forecasting started...
+2025-06-14 11:31:02,339 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 11:31:02,340 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 11:31:02,389 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 11:31:02,390 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 11:31:02,677 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 11:31:02,677 - INFO - ✅ Build triggered
+2025-06-14 11:31:02,677 - INFO - 📦 Dependencies resolved
+2025-06-14 11:31:02,677 - INFO - 🔄 Model retrained
+2025-06-14 11:31:02,677 - INFO - 🚀 Deployment staged
+2025-06-14 11:31:02,677 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 11:31:02,677 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-14 11:31:02,677 - INFO - 🧠 Generating detailed AI insights from forecast data...
+2025-06-14 11:31:02,679 - INFO - ✅ Detailed AI insight summary written to ai_insight_summary.txt
+2025-06-14 11:35:37,521 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 11:35:37,522 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/HP7pLyFZP1
+2025-06-14 11:35:37,522 - INFO - Flet app has started...
+2025-06-14 11:35:37,523 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/HP7pLyFZP1
+2025-06-14 11:35:37,523 - INFO - Starting Flet View app...
+2025-06-14 11:35:37,523 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 11:35:38,090 - INFO - App session started
+2025-06-14 11:35:38,130 - INFO - Smart insights updated successfully.
+2025-06-14 11:35:38,149 - INFO - Forecasting started...
+2025-06-14 11:35:38,149 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 11:35:38,149 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 11:35:38,191 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 11:35:38,191 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 11:35:38,640 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 11:35:38,641 - INFO - ✅ Build triggered
+2025-06-14 11:35:38,641 - INFO - 📦 Dependencies resolved
+2025-06-14 11:35:38,641 - INFO - 🔄 Model retrained
+2025-06-14 11:35:38,641 - INFO - 🚀 Deployment staged
+2025-06-14 11:35:38,641 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 11:35:38,641 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-14 11:35:38,641 - INFO - 🧠 Generating detailed AI insights from forecast data...
+2025-06-14 11:35:38,644 - INFO - ✅ Detailed AI insight summary written to ai_insight_summary.txt
+2025-06-14 11:39:32,969 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 11:39:32,972 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/DlqurP5nSx
+2025-06-14 11:39:32,972 - INFO - Flet app has started...
+2025-06-14 11:39:32,973 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/DlqurP5nSx
+2025-06-14 11:39:32,973 - INFO - Starting Flet View app...
+2025-06-14 11:39:32,973 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 11:39:33,559 - INFO - App session started
+2025-06-14 11:39:33,627 - INFO - Smart insights updated successfully.
+2025-06-14 11:39:33,656 - INFO - Forecasting started...
+2025-06-14 11:39:33,656 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 11:39:33,658 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 11:39:33,710 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 11:39:33,710 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 11:39:34,492 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 11:39:34,492 - INFO - ✅ Build triggered
+2025-06-14 11:39:34,492 - INFO - 📦 Dependencies resolved
+2025-06-14 11:39:34,492 - INFO - 🔄 Model retrained
+2025-06-14 11:39:34,492 - INFO - 🚀 Deployment staged
+2025-06-14 11:39:34,492 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 11:39:34,492 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-14 11:39:34,492 - INFO - 🧠 Generating detailed AI insights from forecast data...
+2025-06-14 11:39:34,497 - INFO - ✅ Detailed AI insight summary written to ai_insight_summary.txt
+2025-06-14 11:41:02,482 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 11:41:02,487 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/UnJz32hnHp
+2025-06-14 11:41:02,487 - INFO - Flet app has started...
+2025-06-14 11:41:02,487 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/UnJz32hnHp
+2025-06-14 11:41:02,487 - INFO - Starting Flet View app...
+2025-06-14 11:41:02,487 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 11:41:02,825 - INFO - App session started
+2025-06-14 11:42:57,260 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 11:42:57,261 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/EUFjpQt5p5
+2025-06-14 11:42:57,261 - INFO - Flet app has started...
+2025-06-14 11:42:57,262 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/EUFjpQt5p5
+2025-06-14 11:42:57,262 - INFO - Starting Flet View app...
+2025-06-14 11:42:57,262 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 11:42:57,593 - INFO - App session started
+2025-06-14 11:42:57,644 - INFO - Smart insights updated successfully.
+2025-06-14 11:42:57,663 - INFO - Forecasting started...
+2025-06-14 11:42:57,663 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 11:42:57,664 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 11:42:57,706 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 11:42:57,706 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 11:42:57,892 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 11:42:57,892 - INFO - ✅ Build triggered
+2025-06-14 11:42:57,892 - INFO - 📦 Dependencies resolved
+2025-06-14 11:42:57,892 - INFO - 🔄 Model retrained
+2025-06-14 11:42:57,892 - INFO - 🚀 Deployment staged
+2025-06-14 11:42:57,892 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 11:42:57,892 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-14 11:42:57,892 - INFO - 🧠 Generating detailed AI insights from forecast data...
+2025-06-14 11:42:57,894 - INFO - ✅ Detailed AI insight summary written to ai_insight_summary.txt
+2025-06-14 12:04:29,054 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:04:29,055 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/3PPrdMUXGG
+2025-06-14 12:04:29,056 - INFO - Flet app has started...
+2025-06-14 12:04:29,056 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/3PPrdMUXGG
+2025-06-14 12:04:29,056 - INFO - Starting Flet View app...
+2025-06-14 12:04:29,057 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:04:29,483 - INFO - App session started
+2025-06-14 12:04:29,517 - INFO - Smart insights updated successfully.
+2025-06-14 12:04:29,534 - INFO - Forecasting started...
+2025-06-14 12:04:29,534 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:04:29,534 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:04:29,564 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:04:29,564 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:04:29,745 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:04:29,745 - INFO - ✅ Build triggered
+2025-06-14 12:04:29,745 - INFO - 📦 Dependencies resolved
+2025-06-14 12:04:29,745 - INFO - 🔄 Model retrained
+2025-06-14 12:04:29,745 - INFO - 🚀 Deployment staged
+2025-06-14 12:04:29,745 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:04:29,745 - INFO - XGBoost MAE: 1927.38, RMSE: 2373.79
+2025-06-14 12:04:29,745 - INFO - 🧠 Generating detailed AI insights from forecast data...
+2025-06-14 12:04:29,747 - INFO - ✅ Detailed AI insight summary written to ai_insight_summary.txt
+2025-06-14 12:04:55,808 - INFO - Forecasting started...
+2025-06-14 12:04:55,809 - INFO - Selected model: Compare Both, Forecast horizon: 5 periods
+2025-06-14 12:04:55,814 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:04:55,844 - INFO - MAE (XGBoost): 1020.61, RMSE: 1391.38
+2025-06-14 12:04:55,844 - INFO - MAE (ARIMA): 1387.82, RMSE: 1602.39
+2025-06-14 12:04:55,997 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:04:55,997 - INFO - ✅ Build triggered
+2025-06-14 12:04:55,997 - INFO - 📦 Dependencies resolved
+2025-06-14 12:04:55,997 - INFO - 🔄 Model retrained
+2025-06-14 12:04:55,997 - INFO - 🚀 Deployment staged
+2025-06-14 12:04:55,997 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:04:55,997 - INFO - XGBoost MAE: 1020.61, RMSE: 1391.38
+2025-06-14 12:04:55,997 - INFO - 🧠 Generating detailed AI insights from forecast data...
+2025-06-14 12:04:55,998 - INFO - ✅ Detailed AI insight summary written to ai_insight_summary.txt
+2025-06-14 12:17:02,151 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:17:02,153 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/QbIxoCmww1
+2025-06-14 12:17:02,153 - INFO - Flet app has started...
+2025-06-14 12:17:02,154 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/QbIxoCmww1
+2025-06-14 12:17:02,154 - INFO - Starting Flet View app...
+2025-06-14 12:17:02,154 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:17:02,673 - INFO - App session started
+2025-06-14 12:17:02,747 - INFO - Smart insights updated successfully.
+2025-06-14 12:17:02,772 - INFO - Forecasting started...
+2025-06-14 12:17:02,772 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:17:02,775 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:17:02,841 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:17:02,841 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:17:03,226 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:17:03,226 - INFO - ✅ Build triggered
+2025-06-14 12:17:03,226 - INFO - 📦 Dependencies resolved
+2025-06-14 12:17:03,226 - INFO - 🔄 Model retrained
+2025-06-14 12:17:03,226 - INFO - 🚀 Deployment staged
+2025-06-14 12:17:03,226 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:17:03,227 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:17:03,227 - INFO - 🧠 Generating detailed AI insights from forecast data...
+2025-06-14 12:17:03,234 - INFO - ✅ Detailed AI insight summary written to ai_insight_summary.txt
+2025-06-14 12:25:28,336 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:25:28,339 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/x7cZIgeoqX
+2025-06-14 12:25:28,340 - INFO - Flet app has started...
+2025-06-14 12:25:28,340 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/x7cZIgeoqX
+2025-06-14 12:25:28,340 - INFO - Starting Flet View app...
+2025-06-14 12:25:28,341 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:25:28,864 - INFO - App session started
+2025-06-14 12:25:28,916 - INFO - Smart insights updated successfully.
+2025-06-14 12:25:28,933 - INFO - Generating forecast...
+2025-06-14 12:25:28,933 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:25:28,933 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:25:28,973 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:25:28,973 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:25:29,254 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:25:29,254 - INFO - ✅ Build triggered
+2025-06-14 12:25:29,254 - INFO - 📦 Dependencies resolved
+2025-06-14 12:25:29,254 - INFO - 🔄 Model retrained
+2025-06-14 12:25:29,254 - INFO - 🚀 Deployment staged
+2025-06-14 12:25:29,254 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:25:29,254 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:25:29,254 - INFO - 🧠 Generating detailed AI insights from forecast data...
+2025-06-14 12:25:29,256 - INFO - ✅ Detailed AI insight summary written to ai_insight_summary.txt
+2025-06-14 12:25:53,493 - INFO - Email sent to gaudeep0901@gmail.com
+2025-06-14 12:33:06,535 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:33:06,539 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/6sB9B36Tph
+2025-06-14 12:33:06,539 - INFO - Flet app has started...
+2025-06-14 12:33:06,539 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/6sB9B36Tph
+2025-06-14 12:33:06,540 - INFO - Starting Flet View app...
+2025-06-14 12:33:06,540 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:33:06,990 - INFO - App session started
+2025-06-14 12:33:07,038 - INFO - Smart insights updated successfully.
+2025-06-14 12:33:07,053 - INFO - Forecasting started...
+2025-06-14 12:33:07,054 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:33:07,054 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:33:07,091 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:33:07,091 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:33:07,283 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:33:07,283 - INFO - ✅ Build triggered
+2025-06-14 12:33:07,283 - INFO - 📦 Dependencies resolved
+2025-06-14 12:33:07,284 - INFO - 🔄 Model retrained
+2025-06-14 12:33:07,284 - INFO - 🚀 Deployment staged
+2025-06-14 12:33:07,284 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:33:07,284 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:33:57,076 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:33:57,077 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/BPfPIoyLKL
+2025-06-14 12:33:57,077 - INFO - Flet app has started...
+2025-06-14 12:33:57,078 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/BPfPIoyLKL
+2025-06-14 12:33:57,078 - INFO - Starting Flet View app...
+2025-06-14 12:33:57,078 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:33:57,393 - INFO - App session started
+2025-06-14 12:33:57,426 - INFO - Smart insights updated successfully.
+2025-06-14 12:33:57,442 - INFO - Forecasting started...
+2025-06-14 12:33:57,442 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:33:57,442 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:33:57,471 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:33:57,471 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:33:57,649 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:33:57,650 - INFO - ✅ Build triggered
+2025-06-14 12:33:57,650 - INFO - 📦 Dependencies resolved
+2025-06-14 12:33:57,650 - INFO - 🔄 Model retrained
+2025-06-14 12:33:57,650 - INFO - 🚀 Deployment staged
+2025-06-14 12:33:57,650 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:33:57,650 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:34:15,781 - INFO - Email sent to gaudeep0901@gmail.com
+2025-06-14 12:34:51,404 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:34:51,407 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/4r0d8GOwk3
+2025-06-14 12:34:51,408 - INFO - Flet app has started...
+2025-06-14 12:34:51,410 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/4r0d8GOwk3
+2025-06-14 12:34:51,410 - INFO - Starting Flet View app...
+2025-06-14 12:34:51,410 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:34:52,119 - INFO - App session started
+2025-06-14 12:34:52,471 - INFO - Smart insights updated successfully.
+2025-06-14 12:34:52,541 - INFO - 📊 Forecasting started...
+2025-06-14 12:34:52,543 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:34:52,548 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:34:52,897 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:34:52,900 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:34:53,852 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:34:53,853 - INFO - ✅ Build triggered
+2025-06-14 12:34:53,853 - INFO - 📦 Dependencies resolved
+2025-06-14 12:34:53,853 - INFO - 🔄 Model retrained
+2025-06-14 12:34:53,853 - INFO - 🚀 Deployment staged
+2025-06-14 12:34:53,853 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:34:53,853 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:37:46,241 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:37:46,246 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/l4USAGUKik
+2025-06-14 12:37:46,246 - INFO - Flet app has started...
+2025-06-14 12:37:46,247 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/l4USAGUKik
+2025-06-14 12:37:46,247 - INFO - Starting Flet View app...
+2025-06-14 12:37:46,248 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:37:46,834 - INFO - App session started
+2025-06-14 12:37:46,947 - INFO - Smart insights updated successfully.
+2025-06-14 12:37:46,993 - INFO - 📊 Forecasting started...
+2025-06-14 12:37:46,993 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:37:46,995 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:37:47,251 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:37:47,252 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:37:48,258 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:37:48,258 - INFO - ✅ Build triggered
+2025-06-14 12:37:48,258 - INFO - 📦 Dependencies resolved
+2025-06-14 12:37:48,258 - INFO - 🔄 Model retrained
+2025-06-14 12:37:48,258 - INFO - 🚀 Deployment staged
+2025-06-14 12:37:48,258 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:37:48,258 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:41:54,310 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:41:54,313 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/MrXLvoJ5QJ
+2025-06-14 12:41:54,314 - INFO - Flet app has started...
+2025-06-14 12:41:54,315 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/MrXLvoJ5QJ
+2025-06-14 12:41:54,315 - INFO - Starting Flet View app...
+2025-06-14 12:41:54,315 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:41:54,743 - INFO - App session started
+2025-06-14 12:41:54,809 - INFO - Smart insights updated successfully.
+2025-06-14 12:41:54,836 - INFO - 📊 Forecasting started...
+2025-06-14 12:41:54,836 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:41:54,837 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:41:54,896 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:41:54,896 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:41:55,913 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:41:55,914 - INFO - ✅ Build triggered
+2025-06-14 12:41:55,914 - INFO - 📦 Dependencies resolved
+2025-06-14 12:41:55,914 - INFO - 🔄 Model retrained
+2025-06-14 12:41:55,914 - INFO - 🚀 Deployment staged
+2025-06-14 12:41:55,914 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:41:55,914 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:47:59,675 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:47:59,687 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/OZBRYX6E5G
+2025-06-14 12:47:59,688 - INFO - Flet app has started...
+2025-06-14 12:47:59,690 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/OZBRYX6E5G
+2025-06-14 12:47:59,690 - INFO - Starting Flet View app...
+2025-06-14 12:47:59,691 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:48:01,841 - INFO - App session started
+2025-06-14 12:48:02,360 - INFO - Smart insights updated successfully.
+2025-06-14 12:48:02,449 - INFO - 📊 Forecasting started...
+2025-06-14 12:48:02,450 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:48:02,453 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:48:02,735 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:48:02,736 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:48:04,082 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:48:04,083 - INFO - ✅ Build triggered
+2025-06-14 12:48:04,083 - INFO - 📦 Dependencies resolved
+2025-06-14 12:48:04,083 - INFO - 🔄 Model retrained
+2025-06-14 12:48:04,083 - INFO - 🚀 Deployment staged
+2025-06-14 12:48:04,083 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:48:04,083 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:48:21,750 - INFO - 📊 Forecasting started...
+2025-06-14 12:48:21,752 - INFO - Selected model: Compare Both, Forecast horizon: 25 periods
+2025-06-14 12:48:21,769 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:48:21,866 - INFO - MAE (XGBoost): 1892.09, RMSE: 2381.56
+2025-06-14 12:48:21,866 - INFO - MAE (ARIMA): 2037.88, RMSE: 2387.68
+2025-06-14 12:48:22,502 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:48:22,503 - INFO - ✅ Build triggered
+2025-06-14 12:48:22,503 - INFO - 📦 Dependencies resolved
+2025-06-14 12:48:22,503 - INFO - 🔄 Model retrained
+2025-06-14 12:48:22,503 - INFO - 🚀 Deployment staged
+2025-06-14 12:48:22,503 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:48:22,503 - INFO - XGBoost MAE: 1892.09, XGBoost RMSE: 2381.56
+2025-06-14 12:50:44,298 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:50:44,300 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/ZNuzVMJ06e
+2025-06-14 12:50:44,300 - INFO - Flet app has started...
+2025-06-14 12:50:44,301 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/ZNuzVMJ06e
+2025-06-14 12:50:44,302 - INFO - Starting Flet View app...
+2025-06-14 12:50:44,302 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:50:45,346 - INFO - App session started
+2025-06-14 12:50:45,596 - INFO - Smart insights updated successfully.
+2025-06-14 12:50:45,714 - INFO - 📊 Forecasting started...
+2025-06-14 12:50:45,715 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:50:45,721 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:50:45,901 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:50:45,901 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:50:47,375 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:50:47,376 - INFO - ✅ Build triggered
+2025-06-14 12:50:47,376 - INFO - 📦 Dependencies resolved
+2025-06-14 12:50:47,376 - INFO - 🔄 Model retrained
+2025-06-14 12:50:47,376 - INFO - 🚀 Deployment staged
+2025-06-14 12:50:47,376 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:50:47,376 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:52:27,463 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:52:27,467 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/PGOLtjbIhC
+2025-06-14 12:52:27,468 - INFO - Flet app has started...
+2025-06-14 12:52:27,469 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/PGOLtjbIhC
+2025-06-14 12:52:27,469 - INFO - Starting Flet View app...
+2025-06-14 12:52:27,469 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:52:28,705 - INFO - App session started
+2025-06-14 12:52:28,995 - INFO - Smart insights updated successfully.
+2025-06-14 12:52:29,037 - INFO - 📊 Forecasting started...
+2025-06-14 12:52:29,037 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:52:29,039 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:52:29,157 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:52:29,157 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:52:30,232 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:52:30,233 - INFO - ✅ Build triggered
+2025-06-14 12:52:30,233 - INFO - 📦 Dependencies resolved
+2025-06-14 12:52:30,233 - INFO - 🔄 Model retrained
+2025-06-14 12:52:30,233 - INFO - 🚀 Deployment staged
+2025-06-14 12:52:30,233 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:52:30,233 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:54:42,325 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:54:42,329 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/nJBdVSDb3g
+2025-06-14 12:54:42,329 - INFO - Flet app has started...
+2025-06-14 12:54:42,330 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/nJBdVSDb3g
+2025-06-14 12:54:42,330 - INFO - Starting Flet View app...
+2025-06-14 12:54:42,331 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:54:43,745 - INFO - App session started
+2025-06-14 12:54:43,922 - INFO - Smart insights updated successfully.
+2025-06-14 12:54:44,235 - INFO - 📊 Forecasting started...
+2025-06-14 12:54:44,235 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:54:44,238 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:54:44,364 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:54:44,364 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:54:44,977 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:54:44,978 - INFO - ✅ Build triggered
+2025-06-14 12:54:44,978 - INFO - 📦 Dependencies resolved
+2025-06-14 12:54:44,978 - INFO - 🔄 Model retrained
+2025-06-14 12:54:44,978 - INFO - 🚀 Deployment staged
+2025-06-14 12:54:44,978 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:54:44,978 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:56:46,671 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:56:46,673 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/JkAl0hnWOY
+2025-06-14 12:56:46,673 - INFO - Flet app has started...
+2025-06-14 12:56:46,674 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/JkAl0hnWOY
+2025-06-14 12:56:46,674 - INFO - Starting Flet View app...
+2025-06-14 12:56:46,674 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:56:47,166 - INFO - App session started
+2025-06-14 12:56:47,396 - INFO - Smart insights updated successfully.
+2025-06-14 12:56:47,431 - INFO - 📊 Forecasting started...
+2025-06-14 12:56:47,431 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:56:47,433 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:56:47,531 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:56:47,531 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:56:47,925 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:56:47,925 - INFO - ✅ Build triggered
+2025-06-14 12:56:47,925 - INFO - 📦 Dependencies resolved
+2025-06-14 12:56:47,925 - INFO - 🔄 Model retrained
+2025-06-14 12:56:47,925 - INFO - 🚀 Deployment staged
+2025-06-14 12:56:47,926 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:56:47,926 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
+2025-06-14 12:58:36,742 - INFO - Assets path configured: /Users/gautamramesh/Documents/GitHub/BA25-04-Time-Series/Code/Sales_forcast/assets
+2025-06-14 12:58:36,743 - INFO - Starting up UDS server on /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/cUeewzXUfz
+2025-06-14 12:58:36,743 - INFO - Flet app has started...
+2025-06-14 12:58:36,744 - INFO - App URL: /var/folders/bx/4jxqpjc574v3zgt86yhsj00m0000gn/T/cUeewzXUfz
+2025-06-14 12:58:36,744 - INFO - Starting Flet View app...
+2025-06-14 12:58:36,744 - INFO - Flet View found in: /Users/gautamramesh/.flet/bin/flet-0.28.3
+2025-06-14 12:58:37,114 - INFO - App session started
+2025-06-14 12:58:37,160 - INFO - Smart insights updated successfully.
+2025-06-14 12:58:37,211 - INFO - 📊 Forecasting started...
+2025-06-14 12:58:37,211 - INFO - Selected model: Compare Both, Forecast horizon: 12 periods
+2025-06-14 12:58:37,214 - WARNING - Auto hyperparameter tuning failed: autoHyperparameterTuning() got an unexpected keyword argument 'date_column'
+2025-06-14 12:58:37,268 - INFO - MAE (XGBoost): 1927.38, RMSE: 2373.79
+2025-06-14 12:58:37,268 - INFO - MAE (ARIMA): 1403.17, RMSE: 1590.09
+2025-06-14 12:58:37,463 - INFO - 🚀 Running CI/CD pipeline steps...
+2025-06-14 12:58:37,463 - INFO - ✅ Build triggered
+2025-06-14 12:58:37,463 - INFO - 📦 Dependencies resolved
+2025-06-14 12:58:37,463 - INFO - 🔄 Model retrained
+2025-06-14 12:58:37,463 - INFO - 🚀 Deployment staged
+2025-06-14 12:58:37,463 - INFO - ✅ CI/CD pipeline completed successfully.
+2025-06-14 12:58:37,463 - INFO - XGBoost MAE: 1927.38, XGBoost RMSE: 2373.79
